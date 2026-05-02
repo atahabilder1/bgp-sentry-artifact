@@ -1,0 +1,5354 @@
+{
+  "103.134.63.0/24": {
+    "authorized_as": 3,
+    "max_length": 24
+  },
+  "103.140.158.0/24": {
+    "authorized_as": 4,
+    "max_length": 24
+  },
+  "103.115.254.0/24": {
+    "authorized_as": 8,
+    "max_length": 24
+  },
+  "207.226.114.0/24": {
+    "authorized_as": 24,
+    "max_length": 24
+  },
+  "209.222.244.0/24": {
+    "authorized_as": 33,
+    "max_length": 24
+  },
+  "128.4.0.0/16": {
+    "authorized_as": 34,
+    "max_length": 17
+  },
+  "67.21.37.0/24": {
+    "authorized_as": 42,
+    "max_length": 24
+  },
+  "192.5.44.0/24": {
+    "authorized_as": 55,
+    "max_length": 24
+  },
+  "64.62.149.0/24": {
+    "authorized_as": 57,
+    "max_length": 24
+  },
+  "66.112.147.0/24": {
+    "authorized_as": 62,
+    "max_length": 24
+  },
+  "192.5.52.0/24": {
+    "authorized_as": 70,
+    "max_length": 24
+  },
+  "204.69.8.0/21": {
+    "authorized_as": 73,
+    "max_length": 24
+  },
+  "128.109.48.0/24": {
+    "authorized_as": 81,
+    "max_length": 24
+  },
+  "207.231.240.0/20": {
+    "authorized_as": 101,
+    "max_length": 24
+  },
+  "103.35.217.0/24": {
+    "authorized_as": 125,
+    "max_length": 24
+  },
+  "130.94.245.240/30": {
+    "authorized_as": 174,
+    "max_length": 30
+  },
+  "15.176.48.0/24": {
+    "authorized_as": 3360,
+    "max_length": 24
+  },
+  "64.192.95.0/24": {
+    "authorized_as": 209,
+    "max_length": 24
+  },
+  "192.84.171.0/24": {
+    "authorized_as": 210,
+    "max_length": 24
+  },
+  "192.124.99.0/24": {
+    "authorized_as": 226,
+    "max_length": 24
+  },
+  "35.20.0.0/14": {
+    "authorized_as": 231,
+    "max_length": 24
+  },
+  "35.33.5.0/24": {
+    "authorized_as": 237,
+    "max_length": 24
+  },
+  "78.40.204.0/23": {
+    "authorized_as": 260,
+    "max_length": 23
+  },
+  "192.131.22.0/24": {
+    "authorized_as": 267,
+    "max_length": 24
+  },
+  "194.85.23.0/24": {
+    "authorized_as": 270,
+    "max_length": 24
+  },
+  "128.189.5.0/24": {
+    "authorized_as": 271,
+    "max_length": 24
+  },
+  "192.74.210.0/24": {
+    "authorized_as": 293,
+    "max_length": 24
+  },
+  "184.105.114.0/24": {
+    "authorized_as": 297,
+    "max_length": 24
+  },
+  "132.219.129.0/24": {
+    "authorized_as": 376,
+    "max_length": 24
+  },
+  "198.202.151.0/24": {
+    "authorized_as": 557,
+    "max_length": 24
+  },
+  "184.150.215.0/27": {
+    "authorized_as": 577,
+    "max_length": 27
+  },
+  "130.108.0.0/16": {
+    "authorized_as": 600,
+    "max_length": 16
+  },
+  "23.29.104.0/24": {
+    "authorized_as": 701,
+    "max_length": 24
+  },
+  "185.42.232.0/24": {
+    "authorized_as": 702,
+    "max_length": 24
+  },
+  "194.169.18.0/24": {
+    "authorized_as": 703,
+    "max_length": 24
+  },
+  "139.178.128.0/18": {
+    "authorized_as": 714,
+    "max_length": 18
+  },
+  "192.101.186.0/24": {
+    "authorized_as": 715,
+    "max_length": 24
+  },
+  "144.160.0.0/15": {
+    "authorized_as": 797,
+    "max_length": 15
+  },
+  "74.80.164.0/24": {
+    "authorized_as": 803,
+    "max_length": 24
+  },
+  "23.147.64.0/24": {
+    "authorized_as": 807,
+    "max_length": 24
+  },
+  "23.27.205.0/24": {
+    "authorized_as": 812,
+    "max_length": 24
+  },
+  "23.159.16.0/24": {
+    "authorized_as": 835,
+    "max_length": 24
+  },
+  "23.16.124.0/24": {
+    "authorized_as": 852,
+    "max_length": 24
+  },
+  "198.164.1.0/24": {
+    "authorized_as": 855,
+    "max_length": 24
+  },
+  "23.137.88.0/24": {
+    "authorized_as": 893,
+    "max_length": 24
+  },
+  "103.135.248.0/24": {
+    "authorized_as": 906,
+    "max_length": 24
+  },
+  "64.72.224.0/24": {
+    "authorized_as": 912,
+    "max_length": 24
+  },
+  "45.142.246.0/24": {
+    "authorized_as": 917,
+    "max_length": 24
+  },
+  "23.134.88.0/24": {
+    "authorized_as": 924,
+    "max_length": 24
+  },
+  "5.226.138.0/24": {
+    "authorized_as": 931,
+    "max_length": 24
+  },
+  "45.83.236.0/24": {
+    "authorized_as": 932,
+    "max_length": 24
+  },
+  "45.152.192.0/22": {
+    "authorized_as": 939,
+    "max_length": 22
+  },
+  "103.203.242.0/23": {
+    "authorized_as": 955,
+    "max_length": 24
+  },
+  "23.140.96.0/24": {
+    "authorized_as": 964,
+    "max_length": 24
+  },
+  "104.37.40.0/24": {
+    "authorized_as": 970,
+    "max_length": 24
+  },
+  "192.34.101.0/24": {
+    "authorized_as": 971,
+    "max_length": 24
+  },
+  "14.137.247.0/24": {
+    "authorized_as": 979,
+    "max_length": 24
+  },
+  "23.185.208.0/24": {
+    "authorized_as": 983,
+    "max_length": 24
+  },
+  "45.8.28.0/24": {
+    "authorized_as": 984,
+    "max_length": 24
+  },
+  "45.62.175.0/24": {
+    "authorized_as": 996,
+    "max_length": 24
+  },
+  "23.145.72.0/24": {
+    "authorized_as": 999,
+    "max_length": 24
+  },
+  "23.138.56.0/24": {
+    "authorized_as": 1001,
+    "max_length": 24
+  },
+  "23.137.56.0/24": {
+    "authorized_as": 1002,
+    "max_length": 24
+  },
+  "23.143.82.0/24": {
+    "authorized_as": 1003,
+    "max_length": 24
+  },
+  "155.103.116.0/22": {
+    "authorized_as": 1014,
+    "max_length": 24
+  },
+  "209.209.24.0/24": {
+    "authorized_as": 1025,
+    "max_length": 24
+  },
+  "23.145.20.0/24": {
+    "authorized_as": 1097,
+    "max_length": 24
+  },
+  "45.59.71.0/24": {
+    "authorized_as": 1100,
+    "max_length": 24
+  },
+  "204.235.56.0/22": {
+    "authorized_as": 1226,
+    "max_length": 22
+  },
+  "23.237.31.0/24": {
+    "authorized_as": 1239,
+    "max_length": 24
+  },
+  "149.20.6.0/24": {
+    "authorized_as": 1280,
+    "max_length": 24
+  },
+  "63.246.36.0/24": {
+    "authorized_as": 1288,
+    "max_length": 24
+  },
+  "198.82.247.0/24": {
+    "authorized_as": 1312,
+    "max_length": 24
+  },
+  "192.73.51.0/24": {
+    "authorized_as": 1341,
+    "max_length": 24
+  },
+  "209.198.99.64/27": {
+    "authorized_as": 1351,
+    "max_length": 27
+  },
+  "64.72.225.0/24": {
+    "authorized_as": 1403,
+    "max_length": 24
+  },
+  "66.39.209.0/24": {
+    "authorized_as": 1421,
+    "max_length": 24
+  },
+  "45.40.98.0/24": {
+    "authorized_as": 401199,
+    "max_length": 24
+  },
+  "140.247.179.128/26": {
+    "authorized_as": 1742,
+    "max_length": 26
+  },
+  "64.80.106.0/24": {
+    "authorized_as": 1785,
+    "max_length": 24
+  },
+  "31.172.142.0/24": {
+    "authorized_as": 1820,
+    "max_length": 32
+  },
+  "45.15.192.0/24": {
+    "authorized_as": 1828,
+    "max_length": 24
+  },
+  "137.164.16.0/24": {
+    "authorized_as": 2152,
+    "max_length": 24
+  },
+  "137.164.17.0/24": {
+    "authorized_as": 2153,
+    "max_length": 24
+  },
+  "216.56.253.0/24": {
+    "authorized_as": 2381,
+    "max_length": 24
+  },
+  "12.151.240.0/24": {
+    "authorized_as": 18540,
+    "max_length": 24
+  },
+  "164.113.202.120/29": {
+    "authorized_as": 2495,
+    "max_length": 29
+  },
+  "198.49.222.0/24": {
+    "authorized_as": 2544,
+    "max_length": 24
+  },
+  "150.199.0.0/16": {
+    "authorized_as": 2572,
+    "max_length": 24
+  },
+  "142.236.76.0/24": {
+    "authorized_as": 2675,
+    "max_length": 24
+  },
+  "32.139.239.0/24": {
+    "authorized_as": 2685,
+    "max_length": 24
+  },
+  "159.208.56.0/25": {
+    "authorized_as": 2686,
+    "max_length": 25
+  },
+  "32.139.234.0/24": {
+    "authorized_as": 2687,
+    "max_length": 24
+  },
+  "32.139.238.0/24": {
+    "authorized_as": 2688,
+    "max_length": 24
+  },
+  "64.113.64.0/24": {
+    "authorized_as": 2698,
+    "max_length": 24
+  },
+  "64.50.167.0/24": {
+    "authorized_as": 2711,
+    "max_length": 24
+  },
+  "131.143.232.0/23": {
+    "authorized_as": 2728,
+    "max_length": 24
+  },
+  "8.21.104.0/23": {
+    "authorized_as": 2731,
+    "max_length": 23
+  },
+  "66.35.67.0/24": {
+    "authorized_as": 2734,
+    "max_length": 24
+  },
+  "192.133.99.0/24": {
+    "authorized_as": 2901,
+    "max_length": 24
+  },
+  "185.2.220.0/22": {
+    "authorized_as": 2906,
+    "max_length": 24
+  },
+  "129.250.1.252/32": {
+    "authorized_as": 2914,
+    "max_length": 32
+  },
+  "198.188.7.0/24": {
+    "authorized_as": 2920,
+    "max_length": 24
+  },
+  "192.35.81.0/24": {
+    "authorized_as": 3128,
+    "max_length": 24
+  },
+  "201.234.65.90/31": {
+    "authorized_as": 3356,
+    "max_length": 31
+  },
+  "173.225.16.0/20": {
+    "authorized_as": 3361,
+    "max_length": 24
+  },
+  "45.59.176.0/22": {
+    "authorized_as": 3367,
+    "max_length": 22
+  },
+  "199.202.116.0/24": {
+    "authorized_as": 3371,
+    "max_length": 24
+  },
+  "69.96.0.0/20": {
+    "authorized_as": 3372,
+    "max_length": 20
+  },
+  "192.249.0.0/20": {
+    "authorized_as": 3450,
+    "max_length": 24
+  },
+  "192.31.107.0/24": {
+    "authorized_as": 3464,
+    "max_length": 24
+  },
+  "137.75.82.0/24": {
+    "authorized_as": 3477,
+    "max_length": 24
+  },
+  "156.40.92.0/24": {
+    "authorized_as": 3527,
+    "max_length": 25
+  },
+  "45.176.234.0/24": {
+    "authorized_as": 3549,
+    "max_length": 24
+  },
+  "23.26.202.0/24": {
+    "authorized_as": 3561,
+    "max_length": 24
+  },
+  "63.133.224.0/20": {
+    "authorized_as": 3580,
+    "max_length": 32
+  },
+  "192.135.80.0/24": {
+    "authorized_as": 3599,
+    "max_length": 24
+  },
+  "199.109.56.0/24": {
+    "authorized_as": 3630,
+    "max_length": 24
+  },
+  "193.149.148.0/23": {
+    "authorized_as": 3653,
+    "max_length": 25
+  },
+  "199.115.224.0/22": {
+    "authorized_as": 3663,
+    "max_length": 24
+  },
+  "198.49.182.0/24": {
+    "authorized_as": 3676,
+    "max_length": 24
+  },
+  "23.172.16.0/24": {
+    "authorized_as": 3737,
+    "max_length": 32
+  },
+  "163.223.77.0/24": {
+    "authorized_as": 3754,
+    "max_length": 24
+  },
+  "192.77.173.0/24": {
+    "authorized_as": 3755,
+    "max_length": 24
+  },
+  "192.91.198.0/24": {
+    "authorized_as": 3783,
+    "max_length": 24
+  },
+  "69.176.62.0/24": {
+    "authorized_as": 3801,
+    "max_length": 24
+  },
+  "63.115.0.0/24": {
+    "authorized_as": 3855,
+    "max_length": 24
+  },
+  "162.218.0.0/22": {
+    "authorized_as": 4150,
+    "max_length": 24
+  },
+  "198.150.172.0/24": {
+    "authorized_as": 4181,
+    "max_length": 24
+  },
+  "43.252.120.0/24": {
+    "authorized_as": 4213,
+    "max_length": 24
+  },
+  "23.140.156.0/24": {
+    "authorized_as": 30247,
+    "max_length": 24
+  },
+  "23.91.104.0/24": {
+    "authorized_as": 4229,
+    "max_length": 24
+  },
+  "69.64.0.0/20": {
+    "authorized_as": 4261,
+    "max_length": 24
+  },
+  "89.191.65.0/24": {
+    "authorized_as": 4323,
+    "max_length": 24
+  },
+  "64.124.81.0/24": {
+    "authorized_as": 4474,
+    "max_length": 24
+  },
+  "142.249.222.0/24": {
+    "authorized_as": 4540,
+    "max_length": 24
+  },
+  "162.250.136.0/22": {
+    "authorized_as": 4901,
+    "max_length": 22
+  },
+  "24.149.86.0/24": {
+    "authorized_as": 4922,
+    "max_length": 24
+  },
+  "199.201.128.0/24": {
+    "authorized_as": 4927,
+    "max_length": 24
+  },
+  "137.192.0.0/16": {
+    "authorized_as": 5006,
+    "max_length": 16
+  },
+  "199.192.116.0/22": {
+    "authorized_as": 5009,
+    "max_length": 24
+  },
+  "147.72.242.0/24": {
+    "authorized_as": 5050,
+    "max_length": 24
+  },
+  "46.16.163.0/24": {
+    "authorized_as": 5056,
+    "max_length": 24
+  },
+  "2.58.168.0/24": {
+    "authorized_as": 5065,
+    "max_length": 24
+  },
+  "156.110.0.0/24": {
+    "authorized_as": 5078,
+    "max_length": 24
+  },
+  "69.196.181.0/24": {
+    "authorized_as": 5645,
+    "max_length": 24
+  },
+  "5.182.114.0/24": {
+    "authorized_as": 7018,
+    "max_length": 24
+  },
+  "157.166.142.0/24": {
+    "authorized_as": 5662,
+    "max_length": 24
+  },
+  "142.55.0.0/16": {
+    "authorized_as": 5664,
+    "max_length": 24
+  },
+  "64.125.231.0/24": {
+    "authorized_as": 5693,
+    "max_length": 24
+  },
+  "206.147.164.0/24": {
+    "authorized_as": 5715,
+    "max_length": 24
+  },
+  "192.12.13.0/24": {
+    "authorized_as": 5723,
+    "max_length": 24
+  },
+  "192.94.74.0/24": {
+    "authorized_as": 5726,
+    "max_length": 24
+  },
+  "64.17.96.0/19": {
+    "authorized_as": 5738,
+    "max_length": 24
+  },
+  "69.12.104.0/24": {
+    "authorized_as": 5769,
+    "max_length": 24
+  },
+  "5.151.103.0/24": {
+    "authorized_as": 6079,
+    "max_length": 24
+  },
+  "216.159.192.0/19": {
+    "authorized_as": 6122,
+    "max_length": 24
+  },
+  "173.251.11.0/24": {
+    "authorized_as": 6128,
+    "max_length": 24
+  },
+  "200.14.34.0/24": {
+    "authorized_as": 6140,
+    "max_length": 24
+  },
+  "45.59.32.0/20": {
+    "authorized_as": 6181,
+    "max_length": 24
+  },
+  "104.238.194.0/24": {
+    "authorized_as": 6208,
+    "max_length": 24
+  },
+  "2.58.244.0/24": {
+    "authorized_as": 6233,
+    "max_length": 24
+  },
+  "102.129.218.0/24": {
+    "authorized_as": 6315,
+    "max_length": 24
+  },
+  "69.12.106.0/23": {
+    "authorized_as": 6327,
+    "max_length": 23
+  },
+  "66.160.194.0/24": {
+    "authorized_as": 40300,
+    "max_length": 24
+  },
+  "192.245.12.0/24": {
+    "authorized_as": 6373,
+    "max_length": 24
+  },
+  "65.83.236.0/22": {
+    "authorized_as": 6389,
+    "max_length": 22
+  },
+  "97.107.176.0/20": {
+    "authorized_as": 6391,
+    "max_length": 24
+  },
+  "136.175.12.0/22": {
+    "authorized_as": 6405,
+    "max_length": 22
+  },
+  "204.48.5.0/24": {
+    "authorized_as": 6407,
+    "max_length": 24
+  },
+  "14.141.246.0/24": {
+    "authorized_as": 6421,
+    "max_length": 24
+  },
+  "162.246.248.0/21": {
+    "authorized_as": 6428,
+    "max_length": 21
+  },
+  "43.241.43.0/25": {
+    "authorized_as": 6453,
+    "max_length": 25
+  },
+  "8.10.149.0/24": {
+    "authorized_as": 6461,
+    "max_length": 24
+  },
+  "104.160.156.0/24": {
+    "authorized_as": 6507,
+    "max_length": 24
+  },
+  "199.212.24.0/24": {
+    "authorized_as": 6509,
+    "max_length": 24
+  },
+  "74.112.144.0/21": {
+    "authorized_as": 6524,
+    "max_length": 24
+  },
+  "78.142.0.0/24": {
+    "authorized_as": 6597,
+    "max_length": 24
+  },
+  "66.82.125.0/24": {
+    "authorized_as": 6621,
+    "max_length": 24
+  },
+  "74.112.16.0/22": {
+    "authorized_as": 6653,
+    "max_length": 24
+  },
+  "192.124.228.0/28": {
+    "authorized_as": 6922,
+    "max_length": 28
+  },
+  "23.27.29.0/24": {
+    "authorized_as": 6939,
+    "max_length": 24
+  },
+  "209.165.0.0/24": {
+    "authorized_as": 6983,
+    "max_length": 24
+  },
+  "62.189.149.0/24": {
+    "authorized_as": 6984,
+    "max_length": 24
+  },
+  "173.195.73.0/24": {
+    "authorized_as": 36734,
+    "max_length": 24
+  },
+  "76.96.86.32/28": {
+    "authorized_as": 7015,
+    "max_length": 28
+  },
+  "96.108.232.0/26": {
+    "authorized_as": 7016,
+    "max_length": 26
+  },
+  "23.26.11.0/24": {
+    "authorized_as": 7029,
+    "max_length": 24
+  },
+  "165.119.254.0/24": {
+    "authorized_as": 7046,
+    "max_length": 24
+  },
+  "104.254.8.0/22": {
+    "authorized_as": 7057,
+    "max_length": 22
+  },
+  "93.177.108.0/24": {
+    "authorized_as": 7106,
+    "max_length": 24
+  },
+  "216.130.64.0/24": {
+    "authorized_as": 7122,
+    "max_length": 24
+  },
+  "37.19.97.0/24": {
+    "authorized_as": 7155,
+    "max_length": 24
+  },
+  "1.178.0.0/24": {
+    "authorized_as": 7224,
+    "max_length": 24
+  },
+  "23.130.184.0/24": {
+    "authorized_as": 7247,
+    "max_length": 32
+  },
+  "173.212.32.0/20": {
+    "authorized_as": 7250,
+    "max_length": 24
+  },
+  "108.144.64.0/24": {
+    "authorized_as": 7287,
+    "max_length": 24
+  },
+  "161.129.186.0/24": {
+    "authorized_as": 7311,
+    "max_length": 24
+  },
+  "64.124.168.38/32": {
+    "authorized_as": 7341,
+    "max_length": 32
+  },
+  "64.6.72.7/32": {
+    "authorized_as": 7342,
+    "max_length": 32
+  },
+  "23.133.44.0/24": {
+    "authorized_as": 7356,
+    "max_length": 24
+  },
+  "198.134.135.0/24": {
+    "authorized_as": 7377,
+    "max_length": 24
+  },
+  "67.151.243.0/24": {
+    "authorized_as": 7381,
+    "max_length": 24
+  },
+  "76.164.10.0/24": {
+    "authorized_as": 7385,
+    "max_length": 24
+  },
+  "5.57.213.0/24": {
+    "authorized_as": 7393,
+    "max_length": 24
+  },
+  "64.51.4.0/22": {
+    "authorized_as": 7459,
+    "max_length": 24
+  },
+  "50.76.165.36/30": {
+    "authorized_as": 7725,
+    "max_length": 30
+  },
+  "67.206.178.0/24": {
+    "authorized_as": 7752,
+    "max_length": 24
+  },
+  "204.17.139.0/24": {
+    "authorized_as": 7782,
+    "max_length": 24
+  },
+  "65.49.88.0/24": {
+    "authorized_as": 7784,
+    "max_length": 24
+  },
+  "199.166.6.0/24": {
+    "authorized_as": 7794,
+    "max_length": 24
+  },
+  "199.234.89.0/24": {
+    "authorized_as": 7795,
+    "max_length": 24
+  },
+  "192.188.183.0/24": {
+    "authorized_as": 7819,
+    "max_length": 24
+  },
+  "199.26.212.0/24": {
+    "authorized_as": 7828,
+    "max_length": 24
+  },
+  "16.14.228.0/24": {
+    "authorized_as": 20115,
+    "max_length": 24
+  },
+  "161.77.0.0/16": {
+    "authorized_as": 7849,
+    "max_length": 24
+  },
+  "137.149.0.0/16": {
+    "authorized_as": 7860,
+    "max_length": 16
+  },
+  "40.135.25.0/24": {
+    "authorized_as": 7896,
+    "max_length": 24
+  },
+  "76.96.174.32/28": {
+    "authorized_as": 7922,
+    "max_length": 28
+  },
+  "45.14.83.0/24": {
+    "authorized_as": 7979,
+    "max_length": 24
+  },
+  "192.69.236.0/22": {
+    "authorized_as": 7992,
+    "max_length": 22
+  },
+  "77.67.101.0/24": {
+    "authorized_as": 8001,
+    "max_length": 24
+  },
+  "207.251.65.0/24": {
+    "authorized_as": 8002,
+    "max_length": 24
+  },
+  "69.79.28.0/24": {
+    "authorized_as": 8014,
+    "max_length": 24
+  },
+  "66.179.16.0/23": {
+    "authorized_as": 8015,
+    "max_length": 24
+  },
+  "162.251.168.0/24": {
+    "authorized_as": 8018,
+    "max_length": 24
+  },
+  "64.110.28.0/22": {
+    "authorized_as": 8047,
+    "max_length": 23
+  },
+  "199.38.106.0/24": {
+    "authorized_as": 8057,
+    "max_length": 24
+  },
+  "217.177.96.0/25": {
+    "authorized_as": 8075,
+    "max_length": 25
+  },
+  "150.176.101.0/24": {
+    "authorized_as": 8103,
+    "max_length": 24
+  },
+  "192.75.96.0/24": {
+    "authorized_as": 8111,
+    "max_length": 24
+  },
+  "23.135.56.0/24": {
+    "authorized_as": 8796,
+    "max_length": 24
+  },
+  "72.50.193.0/24": {
+    "authorized_as": 10242,
+    "max_length": 24
+  },
+  "199.74.249.0/24": {
+    "authorized_as": 10255,
+    "max_length": 24
+  },
+  "45.181.42.0/28": {
+    "authorized_as": 10310,
+    "max_length": 29
+  },
+  "206.176.192.0/19": {
+    "authorized_as": 10352,
+    "max_length": 19
+  },
+  "69.176.128.0/19": {
+    "authorized_as": 10423,
+    "max_length": 24
+  },
+  "192.206.201.0/24": {
+    "authorized_as": 10430,
+    "max_length": 24
+  },
+  "216.27.98.0/23": {
+    "authorized_as": 10466,
+    "max_length": 23
+  },
+  "149.149.34.0/29": {
+    "authorized_as": 10490,
+    "max_length": 29
+  },
+  "192.5.89.0/24": {
+    "authorized_as": 10578,
+    "max_length": 24
+  },
+  "209.151.32.0/19": {
+    "authorized_as": 10587,
+    "max_length": 24
+  },
+  "156.93.192.0/23": {
+    "authorized_as": 10695,
+    "max_length": 24
+  },
+  "8.244.161.0/24": {
+    "authorized_as": 10753,
+    "max_length": 24
+  },
+  "171.153.32.0/24": {
+    "authorized_as": 10794,
+    "max_length": 24
+  },
+  "24.106.0.0/24": {
+    "authorized_as": 40264,
+    "max_length": 24
+  },
+  "64.35.133.0/24": {
+    "authorized_as": 10835,
+    "max_length": 24
+  },
+  "129.6.112.0/24": {
+    "authorized_as": 10886,
+    "max_length": 24
+  },
+  "63.243.164.0/24": {
+    "authorized_as": 10929,
+    "max_length": 24
+  },
+  "66.62.75.0/24": {
+    "authorized_as": 10947,
+    "max_length": 24
+  },
+  "64.4.90.96/28": {
+    "authorized_as": 10965,
+    "max_length": 28
+  },
+  "198.165.161.0/24": {
+    "authorized_as": 10972,
+    "max_length": 24
+  },
+  "104.152.119.0/24": {
+    "authorized_as": 11019,
+    "max_length": 24
+  },
+  "185.157.150.0/24": {
+    "authorized_as": 11042,
+    "max_length": 24
+  },
+  "192.136.36.0/24": {
+    "authorized_as": 11071,
+    "max_length": 24
+  },
+  "63.135.69.0/24": {
+    "authorized_as": 11090,
+    "max_length": 24
+  },
+  "35.128.196.0/26": {
+    "authorized_as": 11096,
+    "max_length": 26
+  },
+  "64.9.194.0/24": {
+    "authorized_as": 11115,
+    "max_length": 24
+  },
+  "43.248.220.0/24": {
+    "authorized_as": 11158,
+    "max_length": 24
+  },
+  "64.57.20.0/24": {
+    "authorized_as": 11164,
+    "max_length": 24
+  },
+  "162.221.16.0/21": {
+    "authorized_as": 11168,
+    "max_length": 24
+  },
+  "142.147.55.0/24": {
+    "authorized_as": 11170,
+    "max_length": 24
+  },
+  "8.20.178.0/24": {
+    "authorized_as": 11178,
+    "max_length": 24
+  },
+  "104.153.150.0/24": {
+    "authorized_as": 399441,
+    "max_length": 24
+  },
+  "24.220.229.144/28": {
+    "authorized_as": 11232,
+    "max_length": 28
+  },
+  "157.23.224.0/20": {
+    "authorized_as": 11251,
+    "max_length": 24
+  },
+  "24.222.0.0/24": {
+    "authorized_as": 11260,
+    "max_length": 24
+  },
+  "69.17.196.0/24": {
+    "authorized_as": 11269,
+    "max_length": 24
+  },
+  "199.33.90.0/23": {
+    "authorized_as": 11272,
+    "max_length": 24
+  },
+  "63.84.244.0/24": {
+    "authorized_as": 11273,
+    "max_length": 24
+  },
+  "131.226.15.0/24": {
+    "authorized_as": 11287,
+    "max_length": 24
+  },
+  "205.151.61.0/24": {
+    "authorized_as": 11290,
+    "max_length": 24
+  },
+  "164.113.255.128/27": {
+    "authorized_as": 11317,
+    "max_length": 27
+  },
+  "104.192.75.0/24": {
+    "authorized_as": 11320,
+    "max_length": 24
+  },
+  "24.97.209.0/24": {
+    "authorized_as": 11351,
+    "max_length": 24
+  },
+  "206.75.35.0/24": {
+    "authorized_as": 11402,
+    "max_length": 24
+  },
+  "23.27.9.0/24": {
+    "authorized_as": 11404,
+    "max_length": 24
+  },
+  "24.106.222.0/24": {
+    "authorized_as": 11426,
+    "max_length": 24
+  },
+  "64.86.93.0/24": {
+    "authorized_as": 11427,
+    "max_length": 24
+  },
+  "65.181.50.0/24": {
+    "authorized_as": 11475,
+    "max_length": 24
+  },
+  "24.248.66.0/24": {
+    "authorized_as": 11492,
+    "max_length": 24
+  },
+  "64.57.16.0/24": {
+    "authorized_as": 11537,
+    "max_length": 24
+  },
+  "72.42.251.0/24": {
+    "authorized_as": 11550,
+    "max_length": 24
+  },
+  "104.218.88.0/22": {
+    "authorized_as": 11597,
+    "max_length": 22
+  },
+  "64.207.110.0/24": {
+    "authorized_as": 11598,
+    "max_length": 24
+  },
+  "23.128.92.0/24": {
+    "authorized_as": 11655,
+    "max_length": 24
+  },
+  "66.79.236.0/23": {
+    "authorized_as": 11666,
+    "max_length": 23
+  },
+  "207.191.176.0/20": {
+    "authorized_as": 11686,
+    "max_length": 32
+  },
+  "72.22.208.0/20": {
+    "authorized_as": 11708,
+    "max_length": 32
+  },
+  "72.15.160.0/19": {
+    "authorized_as": 11714,
+    "max_length": 24
+  },
+  "173.241.96.0/20": {
+    "authorized_as": 11727,
+    "max_length": 24
+  },
+  "209.20.152.0/24": {
+    "authorized_as": 11739,
+    "max_length": 24
+  },
+  "157.23.249.0/24": {
+    "authorized_as": 14288,
+    "max_length": 24
+  },
+  "66.85.43.0/24": {
+    "authorized_as": 11758,
+    "max_length": 32
+  },
+  "206.127.168.0/22": {
+    "authorized_as": 11766,
+    "max_length": 24
+  },
+  "23.152.40.0/24": {
+    "authorized_as": 11776,
+    "max_length": 24
+  },
+  "192.253.202.0/23": {
+    "authorized_as": 11796,
+    "max_length": 23
+  },
+  "23.26.38.0/24": {
+    "authorized_as": 11798,
+    "max_length": 24
+  },
+  "159.18.161.0/24": {
+    "authorized_as": 11814,
+    "max_length": 24
+  },
+  "148.59.186.0/23": {
+    "authorized_as": 11817,
+    "max_length": 24
+  },
+  "23.111.78.0/24": {
+    "authorized_as": 11831,
+    "max_length": 24
+  },
+  "216.87.136.0/24": {
+    "authorized_as": 11840,
+    "max_length": 24
+  },
+  "37.202.204.0/24": {
+    "authorized_as": 11878,
+    "max_length": 24
+  },
+  "198.167.245.0/24": {
+    "authorized_as": 11904,
+    "max_length": 24
+  },
+  "184.104.238.0/23": {
+    "authorized_as": 11910,
+    "max_length": 24
+  },
+  "208.75.140.0/22": {
+    "authorized_as": 11924,
+    "max_length": 24
+  },
+  "207.162.160.0/19": {
+    "authorized_as": 11970,
+    "max_length": 19
+  },
+  "66.198.232.0/21": {
+    "authorized_as": 11979,
+    "max_length": 24
+  },
+  "23.168.136.0/24": {
+    "authorized_as": 26006,
+    "max_length": 24
+  },
+  "192.135.198.0/24": {
+    "authorized_as": 11994,
+    "max_length": 24
+  },
+  "192.189.147.0/24": {
+    "authorized_as": 11996,
+    "max_length": 24
+  },
+  "116.51.28.192/26": {
+    "authorized_as": 12008,
+    "max_length": 26
+  },
+  "66.35.35.0/24": {
+    "authorized_as": 12025,
+    "max_length": 24
+  },
+  "185.224.168.0/24": {
+    "authorized_as": 12070,
+    "max_length": 24
+  },
+  "153.114.0.0/16": {
+    "authorized_as": 12079,
+    "max_length": 16
+  },
+  "24.35.30.0/24": {
+    "authorized_as": 12083,
+    "max_length": 24
+  },
+  "184.105.21.0/24": {
+    "authorized_as": 12097,
+    "max_length": 24
+  },
+  "198.88.216.0/24": {
+    "authorized_as": 12119,
+    "max_length": 24
+  },
+  "37.221.109.0/24": {
+    "authorized_as": 12129,
+    "max_length": 24
+  },
+  "129.19.0.0/18": {
+    "authorized_as": 12145,
+    "max_length": 24
+  },
+  "162.252.170.0/23": {
+    "authorized_as": 12180,
+    "max_length": 24
+  },
+  "23.138.100.0/24": {
+    "authorized_as": 12186,
+    "max_length": 24
+  },
+  "64.38.253.0/24": {
+    "authorized_as": 12189,
+    "max_length": 32
+  },
+  "142.0.184.0/22": {
+    "authorized_as": 27357,
+    "max_length": 22
+  },
+  "66.248.208.0/24": {
+    "authorized_as": 12208,
+    "max_length": 24
+  },
+  "104.224.42.0/24": {
+    "authorized_as": 12213,
+    "max_length": 24
+  },
+  "23.172.0.0/24": {
+    "authorized_as": 12243,
+    "max_length": 24
+  },
+  "24.39.153.0/24": {
+    "authorized_as": 12271,
+    "max_length": 24
+  },
+  "199.246.168.0/23": {
+    "authorized_as": 13319,
+    "max_length": 24
+  },
+  "50.115.147.0/24": {
+    "authorized_as": 13329,
+    "max_length": 24
+  },
+  "162.249.16.0/22": {
+    "authorized_as": 13331,
+    "max_length": 22
+  },
+  "131.219.9.0/25": {
+    "authorized_as": 399938,
+    "max_length": 25
+  },
+  "23.161.200.0/24": {
+    "authorized_as": 13356,
+    "max_length": 24
+  },
+  "24.7.210.0/24": {
+    "authorized_as": 13367,
+    "max_length": 24
+  },
+  "199.181.247.0/24": {
+    "authorized_as": 13370,
+    "max_length": 24
+  },
+  "199.30.232.0/21": {
+    "authorized_as": 13380,
+    "max_length": 21
+  },
+  "64.63.0.0/24": {
+    "authorized_as": 13414,
+    "max_length": 24
+  },
+  "66.7.116.0/24": {
+    "authorized_as": 13415,
+    "max_length": 24
+  },
+  "104.128.192.0/20": {
+    "authorized_as": 13428,
+    "max_length": 20
+  },
+  "45.73.180.0/24": {
+    "authorized_as": 13444,
+    "max_length": 24
+  },
+  "66.163.52.0/24": {
+    "authorized_as": 13445,
+    "max_length": 24
+  },
+  "134.228.1.0/24": {
+    "authorized_as": 13490,
+    "max_length": 24
+  },
+  "64.140.200.0/24": {
+    "authorized_as": 13536,
+    "max_length": 24
+  },
+  "64.33.243.0/24": {
+    "authorized_as": 13576,
+    "max_length": 24
+  },
+  "162.216.116.0/22": {
+    "authorized_as": 13614,
+    "max_length": 24
+  },
+  "66.43.0.0/24": {
+    "authorized_as": 13649,
+    "max_length": 24
+  },
+  "68.171.16.0/20": {
+    "authorized_as": 13654,
+    "max_length": 24
+  },
+  "65.22.14.0/24": {
+    "authorized_as": 13657,
+    "max_length": 24
+  },
+  "69.1.101.0/24": {
+    "authorized_as": 13692,
+    "max_length": 24
+  },
+  "8.42.8.0/24": {
+    "authorized_as": 13727,
+    "max_length": 24
+  },
+  "23.26.250.0/24": {
+    "authorized_as": 13737,
+    "max_length": 24
+  },
+  "66.218.215.0/24": {
+    "authorized_as": 13760,
+    "max_length": 24
+  },
+  "96.46.104.0/21": {
+    "authorized_as": 13765,
+    "max_length": 24
+  },
+  "38.46.154.0/24": {
+    "authorized_as": 13767,
+    "max_length": 24
+  },
+  "65.39.184.0/25": {
+    "authorized_as": 13768,
+    "max_length": 25
+  },
+  "23.151.24.0/24": {
+    "authorized_as": 13781,
+    "max_length": 24
+  },
+  "45.177.100.0/22": {
+    "authorized_as": 13786,
+    "max_length": 24
+  },
+  "97.107.196.0/24": {
+    "authorized_as": 13807,
+    "max_length": 32
+  },
+  "74.113.240.0/21": {
+    "authorized_as": 13823,
+    "max_length": 24
+  },
+  "204.48.61.0/24": {
+    "authorized_as": 13825,
+    "max_length": 24
+  },
+  "142.202.220.0/22": {
+    "authorized_as": 13830,
+    "max_length": 24
+  },
+  "142.231.0.0/24": {
+    "authorized_as": 13845,
+    "max_length": 24
+  },
+  "209.40.80.0/22": {
+    "authorized_as": 13855,
+    "max_length": 24
+  },
+  "198.251.112.0/20": {
+    "authorized_as": 13866,
+    "max_length": 24
+  },
+  "170.76.243.0/24": {
+    "authorized_as": 23486,
+    "max_length": 24
+  },
+  "208.185.135.0/24": {
+    "authorized_as": 13904,
+    "max_length": 24
+  },
+  "23.131.160.0/24": {
+    "authorized_as": 13925,
+    "max_length": 24
+  },
+  "141.193.104.0/22": {
+    "authorized_as": 13943,
+    "max_length": 22
+  },
+  "72.87.55.0/24": {
+    "authorized_as": 13977,
+    "max_length": 24
+  },
+  "198.177.182.0/24": {
+    "authorized_as": 13979,
+    "max_length": 24
+  },
+  "8.34.27.0/24": {
+    "authorized_as": 13984,
+    "max_length": 24
+  },
+  "144.86.192.0/24": {
+    "authorized_as": 13994,
+    "max_length": 24
+  },
+  "74.50.239.0/24": {
+    "authorized_as": 14007,
+    "max_length": 24
+  },
+  "129.19.153.0/24": {
+    "authorized_as": 14041,
+    "max_length": 24
+  },
+  "141.225.248.0/24": {
+    "authorized_as": 14048,
+    "max_length": 24
+  },
+  "216.230.25.0/24": {
+    "authorized_as": 14051,
+    "max_length": 24
+  },
+  "5.42.203.0/24": {
+    "authorized_as": 14061,
+    "max_length": 24
+  },
+  "64.21.249.0/24": {
+    "authorized_as": 14090,
+    "max_length": 24
+  },
+  "208.77.128.0/22": {
+    "authorized_as": 14103,
+    "max_length": 24
+  },
+  "52.144.24.0/24": {
+    "authorized_as": 14127,
+    "max_length": 24
+  },
+  "192.102.15.0/24": {
+    "authorized_as": 14155,
+    "max_length": 24
+  },
+  "64.39.231.0/24": {
+    "authorized_as": 14230,
+    "max_length": 24
+  },
+  "208.91.60.0/22": {
+    "authorized_as": 14244,
+    "max_length": 26
+  },
+  "206.71.32.0/20": {
+    "authorized_as": 14263,
+    "max_length": 24
+  },
+  "104.218.187.0/24": {
+    "authorized_as": 14291,
+    "max_length": 24
+  },
+  "50.84.45.0/24": {
+    "authorized_as": 14313,
+    "max_length": 24
+  },
+  "23.94.110.0/24": {
+    "authorized_as": 14315,
+    "max_length": 24
+  },
+  "192.107.120.0/23": {
+    "authorized_as": 32145,
+    "max_length": 24
+  },
+  "192.73.220.0/24": {
+    "authorized_as": 14333,
+    "max_length": 24
+  },
+  "104.161.252.0/24": {
+    "authorized_as": 14340,
+    "max_length": 24
+  },
+  "206.223.125.0/24": {
+    "authorized_as": 14371,
+    "max_length": 24
+  },
+  "87.237.219.0/24": {
+    "authorized_as": 14380,
+    "max_length": 24
+  },
+  "104.247.88.0/24": {
+    "authorized_as": 14401,
+    "max_length": 24
+  },
+  "108.174.0.0/24": {
+    "authorized_as": 14413,
+    "max_length": 24
+  },
+  "147.185.164.0/24": {
+    "authorized_as": 14430,
+    "max_length": 24
+  },
+  "66.59.216.0/24": {
+    "authorized_as": 14434,
+    "max_length": 24
+  },
+  "68.70.48.0/24": {
+    "authorized_as": 14477,
+    "max_length": 24
+  },
+  "91.223.161.0/24": {
+    "authorized_as": 14537,
+    "max_length": 24
+  },
+  "162.247.188.0/22": {
+    "authorized_as": 14543,
+    "max_length": 22
+  },
+  "74.82.128.0/20": {
+    "authorized_as": 14589,
+    "max_length": 24
+  },
+  "64.226.208.0/24": {
+    "authorized_as": 14593,
+    "max_length": 24
+  },
+  "142.202.46.0/30": {
+    "authorized_as": 16509,
+    "max_length": 30
+  },
+  "31.13.193.0/24": {
+    "authorized_as": 14713,
+    "max_length": 32
+  },
+  "63.91.28.0/24": {
+    "authorized_as": 14717,
+    "max_length": 24
+  },
+  "208.86.116.0/22": {
+    "authorized_as": 14721,
+    "max_length": 24
+  },
+  "50.30.120.0/24": {
+    "authorized_as": 14749,
+    "max_length": 24
+  },
+  "206.82.26.0/24": {
+    "authorized_as": 14773,
+    "max_length": 24
+  },
+  "69.73.192.0/24": {
+    "authorized_as": 14813,
+    "max_length": 24
+  },
+  "199.48.104.0/22": {
+    "authorized_as": 54107,
+    "max_length": 24
+  },
+  "104.218.220.0/22": {
+    "authorized_as": 14828,
+    "max_length": 24
+  },
+  "192.154.132.0/22": {
+    "authorized_as": 14860,
+    "max_length": 24
+  },
+  "206.126.109.0/24": {
+    "authorized_as": 14866,
+    "max_length": 24
+  },
+  "162.223.16.0/24": {
+    "authorized_as": 14877,
+    "max_length": 24
+  },
+  "24.120.232.0/24": {
+    "authorized_as": 14901,
+    "max_length": 24
+  },
+  "45.60.9.0/24": {
+    "authorized_as": 14960,
+    "max_length": 24
+  },
+  "64.62.247.0/24": {
+    "authorized_as": 14979,
+    "max_length": 24
+  },
+  "192.197.189.0/24": {
+    "authorized_as": 15024,
+    "max_length": 24
+  },
+  "216.236.127.0/24": {
+    "authorized_as": 15035,
+    "max_length": 24
+  },
+  "23.236.80.0/20": {
+    "authorized_as": 15054,
+    "max_length": 24
+  },
+  "66.168.38.0/23": {
+    "authorized_as": 15085,
+    "max_length": 24
+  },
+  "192.111.36.0/24": {
+    "authorized_as": 15108,
+    "max_length": 24
+  },
+  "164.152.208.0/21": {
+    "authorized_as": 15129,
+    "max_length": 21
+  },
+  "64.29.188.0/22": {
+    "authorized_as": 15149,
+    "max_length": 22
+  },
+  "74.51.208.0/24": {
+    "authorized_as": 15164,
+    "max_length": 24
+  },
+  "8.8.4.0/24": {
+    "authorized_as": 15169,
+    "max_length": 24
+  },
+  "198.135.156.0/22": {
+    "authorized_as": 15191,
+    "max_length": 24
+  },
+  "154.198.32.0/22": {
+    "authorized_as": 15221,
+    "max_length": 24
+  },
+  "174.137.84.0/22": {
+    "authorized_as": 15250,
+    "max_length": 22
+  },
+  "72.18.114.0/24": {
+    "authorized_as": 15267,
+    "max_length": 24
+  },
+  "66.46.20.0/24": {
+    "authorized_as": 15290,
+    "max_length": 24
+  },
+  "198.161.120.0/24": {
+    "authorized_as": 15296,
+    "max_length": 24
+  },
+  "205.159.98.0/24": {
+    "authorized_as": 15305,
+    "max_length": 24
+  },
+  "147.124.232.0/24": {
+    "authorized_as": 15313,
+    "max_length": 24
+  },
+  "216.238.168.0/23": {
+    "authorized_as": 15320,
+    "max_length": 24
+  },
+  "207.164.54.0/24": {
+    "authorized_as": 15321,
+    "max_length": 24
+  },
+  "66.212.62.0/23": {
+    "authorized_as": 15344,
+    "max_length": 24
+  },
+  "23.90.96.0/24": {
+    "authorized_as": 16417,
+    "max_length": 24
+  },
+  "66.38.4.0/23": {
+    "authorized_as": 16433,
+    "max_length": 24
+  },
+  "70.41.23.0/24": {
+    "authorized_as": 16491,
+    "max_length": 24
+  },
+  "134.6.254.0/24": {
+    "authorized_as": 16504,
+    "max_length": 24
+  },
+  "66.179.78.0/24": {
+    "authorized_as": 16524,
+    "max_length": 24
+  },
+  "205.151.56.0/24": {
+    "authorized_as": 16532,
+    "max_length": 24
+  },
+  "23.128.122.0/24": {
+    "authorized_as": 16552,
+    "max_length": 24
+  },
+  "66.103.145.0/24": {
+    "authorized_as": 16557,
+    "max_length": 24
+  },
+  "66.171.144.0/20": {
+    "authorized_as": 16582,
+    "max_length": 24
+  },
+  "72.140.236.0/22": {
+    "authorized_as": 16583,
+    "max_length": 24
+  },
+  "136.36.16.0/24": {
+    "authorized_as": 16591,
+    "max_length": 24
+  },
+  "23.131.184.0/24": {
+    "authorized_as": 16611,
+    "max_length": 24
+  },
+  "104.171.144.0/20": {
+    "authorized_as": 16628,
+    "max_length": 24
+  },
+  "192.41.214.0/24": {
+    "authorized_as": 16668,
+    "max_length": 24
+  },
+  "45.248.124.0/24": {
+    "authorized_as": 16696,
+    "max_length": 24
+  },
+  "199.21.192.0/24": {
+    "authorized_as": 16698,
+    "max_length": 24
+  },
+  "104.244.140.0/22": {
+    "authorized_as": 16700,
+    "max_length": 22
+  },
+  "64.113.8.0/24": {
+    "authorized_as": 16713,
+    "max_length": 24
+  },
+  "205.178.164.0/22": {
+    "authorized_as": 16717,
+    "max_length": 24
+  },
+  "207.174.22.0/24": {
+    "authorized_as": 16724,
+    "max_length": 24
+  },
+  "192.34.70.0/24": {
+    "authorized_as": 16796,
+    "max_length": 32
+  },
+  "192.161.66.0/23": {
+    "authorized_as": 16832,
+    "max_length": 23
+  },
+  "104.218.81.0/24": {
+    "authorized_as": 16851,
+    "max_length": 24
+  },
+  "69.7.80.0/24": {
+    "authorized_as": 16857,
+    "max_length": 24
+  },
+  "198.29.64.0/23": {
+    "authorized_as": 16866,
+    "max_length": 24
+  },
+  "206.188.238.0/24": {
+    "authorized_as": 16904,
+    "max_length": 24
+  },
+  "38.245.54.0/24": {
+    "authorized_as": 16921,
+    "max_length": 24
+  },
+  "204.15.44.0/23": {
+    "authorized_as": 16942,
+    "max_length": 23
+  },
+  "23.169.240.0/24": {
+    "authorized_as": 16970,
+    "max_length": 24
+  },
+  "192.139.114.0/24": {
+    "authorized_as": 17001,
+    "max_length": 24
+  },
+  "72.46.64.0/21": {
+    "authorized_as": 17005,
+    "max_length": 24
+  },
+  "192.160.215.0/24": {
+    "authorized_as": 17012,
+    "max_length": 24
+  },
+  "207.180.0.0/24": {
+    "authorized_as": 17014,
+    "max_length": 24
+  },
+  "137.83.72.0/24": {
+    "authorized_as": 17017,
+    "max_length": 24
+  },
+  "91.221.233.0/24": {
+    "authorized_as": 17018,
+    "max_length": 24
+  },
+  "50.152.224.32/28": {
+    "authorized_as": 17035,
+    "max_length": 28
+  },
+  "204.156.24.0/24": {
+    "authorized_as": 17054,
+    "max_length": 24
+  },
+  "91.229.92.0/24": {
+    "authorized_as": 17088,
+    "max_length": 24
+  },
+  "66.117.1.0/24": {
+    "authorized_as": 17139,
+    "max_length": 24
+  },
+  "208.72.236.0/22": {
+    "authorized_as": 17185,
+    "max_length": 24
+  },
+  "140.235.252.0/24": {
+    "authorized_as": 17216,
+    "max_length": 24
+  },
+  "199.244.32.0/24": {
+    "authorized_as": 17223,
+    "max_length": 24
+  },
+  "12.153.192.0/20": {
+    "authorized_as": 17253,
+    "max_length": 20
+  },
+  "170.76.237.0/24": {
+    "authorized_as": 17303,
+    "max_length": 24
+  },
+  "108.160.48.0/20": {
+    "authorized_as": 17306,
+    "max_length": 20
+  },
+  "173.195.240.0/20": {
+    "authorized_as": 17356,
+    "max_length": 24
+  },
+  "23.169.232.0/24": {
+    "authorized_as": 17378,
+    "max_length": 24
+  },
+  "2.58.248.0/24": {
+    "authorized_as": 140224,
+    "max_length": 24
+  },
+  "63.141.160.0/24": {
+    "authorized_as": 18434,
+    "max_length": 24
+  },
+  "23.159.8.0/24": {
+    "authorized_as": 18450,
+    "max_length": 24
+  },
+  "174.34.248.0/22": {
+    "authorized_as": 18451,
+    "max_length": 22
+  },
+  "192.70.255.0/24": {
+    "authorized_as": 18474,
+    "max_length": 24
+  },
+  "23.27.15.0/24": {
+    "authorized_as": 18530,
+    "max_length": 24
+  },
+  "159.18.53.0/24": {
+    "authorized_as": 18563,
+    "max_length": 24
+  },
+  "163.182.160.0/23": {
+    "authorized_as": 400648,
+    "max_length": 24
+  },
+  "104.200.192.0/20": {
+    "authorized_as": 18632,
+    "max_length": 24
+  },
+  "152.44.64.0/21": {
+    "authorized_as": 18671,
+    "max_length": 24
+  },
+  "165.254.216.0/23": {
+    "authorized_as": 18683,
+    "max_length": 24
+  },
+  "104.152.124.0/22": {
+    "authorized_as": 18712,
+    "max_length": 22
+  },
+  "45.227.5.0/24": {
+    "authorized_as": 18747,
+    "max_length": 24
+  },
+  "50.117.24.224/29": {
+    "authorized_as": 18779,
+    "max_length": 29
+  },
+  "23.147.89.0/24": {
+    "authorized_as": 18914,
+    "max_length": 24
+  },
+  "204.29.13.240/28": {
+    "authorized_as": 18934,
+    "max_length": 32
+  },
+  "198.168.122.0/24": {
+    "authorized_as": 23404,
+    "max_length": 24
+  },
+  "5.180.25.0/24": {
+    "authorized_as": 18978,
+    "max_length": 24
+  },
+  "96.31.192.0/20": {
+    "authorized_as": 19008,
+    "max_length": 20
+  },
+  "206.57.152.0/24": {
+    "authorized_as": 19009,
+    "max_length": 24
+  },
+  "24.245.239.0/24": {
+    "authorized_as": 19016,
+    "max_length": 24
+  },
+  "156.40.93.0/24": {
+    "authorized_as": 19050,
+    "max_length": 24
+  },
+  "66.62.128.0/24": {
+    "authorized_as": 19092,
+    "max_length": 24
+  },
+  "24.224.44.0/24": {
+    "authorized_as": 19108,
+    "max_length": 24
+  },
+  "69.165.84.0/22": {
+    "authorized_as": 19122,
+    "max_length": 24
+  },
+  "172.110.47.0/24": {
+    "authorized_as": 19151,
+    "max_length": 24
+  },
+  "198.183.172.0/24": {
+    "authorized_as": 19201,
+    "max_length": 24
+  },
+  "66.103.245.0/24": {
+    "authorized_as": 19224,
+    "max_length": 24
+  },
+  "176.32.232.0/24": {
+    "authorized_as": 19229,
+    "max_length": 24
+  },
+  "64.255.15.0/24": {
+    "authorized_as": 19237,
+    "max_length": 24
+  },
+  "104.245.68.0/24": {
+    "authorized_as": 19256,
+    "max_length": 24
+  },
+  "23.252.69.0/24": {
+    "authorized_as": 19257,
+    "max_length": 24
+  },
+  "130.94.243.0/24": {
+    "authorized_as": 19271,
+    "max_length": 24
+  },
+  "199.180.64.0/21": {
+    "authorized_as": 19272,
+    "max_length": 21
+  },
+  "2.56.101.0/24": {
+    "authorized_as": 19318,
+    "max_length": 24
+  },
+  "149.64.225.0/24": {
+    "authorized_as": 19331,
+    "max_length": 24
+  },
+  "66.102.17.0/24": {
+    "authorized_as": 19366,
+    "max_length": 24
+  },
+  "5.8.63.0/24": {
+    "authorized_as": 19437,
+    "max_length": 24
+  },
+  "66.109.112.0/21": {
+    "authorized_as": 19504,
+    "max_length": 24
+  },
+  "205.237.20.0/24": {
+    "authorized_as": 19515,
+    "max_length": 24
+  },
+  "63.249.0.0/19": {
+    "authorized_as": 19518,
+    "max_length": 24
+  },
+  "23.146.32.0/24": {
+    "authorized_as": 19523,
+    "max_length": 24
+  },
+  "34.0.224.0/24": {
+    "authorized_as": 19527,
+    "max_length": 24
+  },
+  "162.216.0.0/22": {
+    "authorized_as": 19531,
+    "max_length": 24
+  },
+  "149.126.75.177/32": {
+    "authorized_as": 19551,
+    "max_length": 32
+  },
+  "64.112.190.0/24": {
+    "authorized_as": 19605,
+    "max_length": 24
+  },
+  "23.174.152.0/24": {
+    "authorized_as": 19684,
+    "max_length": 24
+  },
+  "64.78.240.0/20": {
+    "authorized_as": 19689,
+    "max_length": 20
+  },
+  "216.42.131.0/24": {
+    "authorized_as": 19693,
+    "max_length": 24
+  },
+  "152.22.240.0/20": {
+    "authorized_as": 19718,
+    "max_length": 20
+  },
+  "23.173.112.0/24": {
+    "authorized_as": 19740,
+    "max_length": 24
+  },
+  "192.5.40.0/24": {
+    "authorized_as": 19782,
+    "max_length": 24
+  },
+  "46.235.108.0/24": {
+    "authorized_as": 19806,
+    "max_length": 24
+  },
+  "31.40.193.0/24": {
+    "authorized_as": 19844,
+    "max_length": 24
+  },
+  "65.96.0.0/18": {
+    "authorized_as": 19855,
+    "max_length": 18
+  },
+  "162.126.201.0/24": {
+    "authorized_as": 19881,
+    "max_length": 24
+  },
+  "128.121.11.0/24": {
+    "authorized_as": 19893,
+    "max_length": 24
+  },
+  "5.11.16.0/24": {
+    "authorized_as": 19905,
+    "max_length": 24
+  },
+  "107.0.202.0/24": {
+    "authorized_as": 19944,
+    "max_length": 24
+  },
+  "72.10.66.0/24": {
+    "authorized_as": 19955,
+    "max_length": 24
+  },
+  "156.225.66.0/24": {
+    "authorized_as": 19969,
+    "max_length": 24
+  },
+  "185.194.86.0/24": {
+    "authorized_as": 19994,
+    "max_length": 24
+  },
+  "23.94.90.0/24": {
+    "authorized_as": 22516,
+    "max_length": 24
+  },
+  "23.131.120.0/24": {
+    "authorized_as": 20055,
+    "max_length": 24
+  },
+  "170.39.8.0/23": {
+    "authorized_as": 20080,
+    "max_length": 24
+  },
+  "67.213.160.0/24": {
+    "authorized_as": 20081,
+    "max_length": 24
+  },
+  "23.136.80.0/24": {
+    "authorized_as": 20119,
+    "max_length": 24
+  },
+  "45.149.103.0/24": {
+    "authorized_as": 20141,
+    "max_length": 24
+  },
+  "45.155.255.0/24": {
+    "authorized_as": 20200,
+    "max_length": 24
+  },
+  "192.211.11.0/24": {
+    "authorized_as": 20205,
+    "max_length": 24
+  },
+  "162.151.236.0/25": {
+    "authorized_as": 20214,
+    "max_length": 25
+  },
+  "23.176.144.0/24": {
+    "authorized_as": 30041,
+    "max_length": 24
+  },
+  "74.62.118.0/24": {
+    "authorized_as": 20231,
+    "max_length": 24
+  },
+  "69.80.80.0/20": {
+    "authorized_as": 20257,
+    "max_length": 24
+  },
+  "199.5.137.0/24": {
+    "authorized_as": 20259,
+    "max_length": 24
+  },
+  "23.186.112.0/24": {
+    "authorized_as": 20278,
+    "max_length": 24
+  },
+  "31.58.56.0/24": {
+    "authorized_as": 20326,
+    "max_length": 24
+  },
+  "64.34.45.0/24": {
+    "authorized_as": 20340,
+    "max_length": 24
+  },
+  "74.50.192.0/20": {
+    "authorized_as": 20394,
+    "max_length": 24
+  },
+  "23.235.244.0/24": {
+    "authorized_as": 20454,
+    "max_length": 32
+  },
+  "2.57.255.0/24": {
+    "authorized_as": 20473,
+    "max_length": 32
+  },
+  "24.124.151.0/24": {
+    "authorized_as": 21508,
+    "max_length": 24
+  },
+  "137.119.26.0/23": {
+    "authorized_as": 21515,
+    "max_length": 23
+  },
+  "23.157.240.0/24": {
+    "authorized_as": 21527,
+    "max_length": 24
+  },
+  "66.186.160.0/19": {
+    "authorized_as": 21547,
+    "max_length": 24
+  },
+  "199.248.63.0/24": {
+    "authorized_as": 21554,
+    "max_length": 24
+  },
+  "72.46.157.0/24": {
+    "authorized_as": 21559,
+    "max_length": 24
+  },
+  "209.212.13.0/24": {
+    "authorized_as": 21669,
+    "max_length": 24
+  },
+  "192.86.21.0/24": {
+    "authorized_as": 21681,
+    "max_length": 24
+  },
+  "23.157.160.0/24": {
+    "authorized_as": 21700,
+    "max_length": 24
+  },
+  "204.101.44.0/24": {
+    "authorized_as": 21723,
+    "max_length": 24
+  },
+  "2.59.255.0/24": {
+    "authorized_as": 21738,
+    "max_length": 24
+  },
+  "45.42.141.0/24": {
+    "authorized_as": 21743,
+    "max_length": 24
+  },
+  "199.217.124.0/22": {
+    "authorized_as": 21766,
+    "max_length": 24
+  },
+  "159.18.151.0/24": {
+    "authorized_as": 21774,
+    "max_length": 24
+  },
+  "199.45.152.0/24": {
+    "authorized_as": 21777,
+    "max_length": 24
+  },
+  "66.199.248.0/22": {
+    "authorized_as": 21782,
+    "max_length": 22
+  },
+  "184.169.48.0/20": {
+    "authorized_as": 21804,
+    "max_length": 20
+  },
+  "64.209.144.0/20": {
+    "authorized_as": 21846,
+    "max_length": 24
+  },
+  "2.27.161.0/24": {
+    "authorized_as": 21859,
+    "max_length": 24
+  },
+  "74.209.64.0/24": {
+    "authorized_as": 21898,
+    "max_length": 24
+  },
+  "204.197.128.0/20": {
+    "authorized_as": 21922,
+    "max_length": 24
+  },
+  "172.57.114.0/26": {
+    "authorized_as": 21928,
+    "max_length": 26
+  },
+  "204.11.244.0/22": {
+    "authorized_as": 21947,
+    "max_length": 22
+  },
+  "63.141.57.0/24": {
+    "authorized_as": 23498,
+    "max_length": 24
+  },
+  "130.156.1.0/24": {
+    "authorized_as": 21976,
+    "max_length": 24
+  },
+  "69.2.160.0/20": {
+    "authorized_as": 21981,
+    "max_length": 24
+  },
+  "204.153.9.0/24": {
+    "authorized_as": 22056,
+    "max_length": 24
+  },
+  "64.136.108.0/24": {
+    "authorized_as": 22079,
+    "max_length": 24
+  },
+  "8.21.81.0/24": {
+    "authorized_as": 22147,
+    "max_length": 24
+  },
+  "130.45.128.0/17": {
+    "authorized_as": 22191,
+    "max_length": 24
+  },
+  "52.129.12.0/24": {
+    "authorized_as": 22241,
+    "max_length": 24
+  },
+  "50.77.4.0/24": {
+    "authorized_as": 22258,
+    "max_length": 24
+  },
+  "23.137.105.0/24": {
+    "authorized_as": 22295,
+    "max_length": 24
+  },
+  "162.249.84.0/22": {
+    "authorized_as": 22299,
+    "max_length": 24
+  },
+  "96.43.64.0/20": {
+    "authorized_as": 22302,
+    "max_length": 24
+  },
+  "192.207.252.0/24": {
+    "authorized_as": 22324,
+    "max_length": 24
+  },
+  "74.114.96.0/24": {
+    "authorized_as": 22335,
+    "max_length": 24
+  },
+  "41.194.8.0/24": {
+    "authorized_as": 22351,
+    "max_length": 24
+  },
+  "87.238.243.0/24": {
+    "authorized_as": 22364,
+    "max_length": 24
+  },
+  "162.208.122.0/24": {
+    "authorized_as": 22394,
+    "max_length": 24
+  },
+  "192.96.23.0/24": {
+    "authorized_as": 22413,
+    "max_length": 24
+  },
+  "31.57.14.0/24": {
+    "authorized_as": 22427,
+    "max_length": 24
+  },
+  "206.130.85.0/24": {
+    "authorized_as": 22438,
+    "max_length": 24
+  },
+  "23.134.192.0/22": {
+    "authorized_as": 22462,
+    "max_length": 22
+  },
+  "76.58.28.0/23": {
+    "authorized_as": 22513,
+    "max_length": 23
+  },
+  "172.82.101.0/24": {
+    "authorized_as": 22611,
+    "max_length": 24
+  },
+  "70.40.176.0/24": {
+    "authorized_as": 22616,
+    "max_length": 24
+  },
+  "45.61.11.0/24": {
+    "authorized_as": 22652,
+    "max_length": 24
+  },
+  "192.40.208.0/21": {
+    "authorized_as": 22667,
+    "max_length": 24
+  },
+  "24.216.136.0/24": {
+    "authorized_as": 22677,
+    "max_length": 24
+  },
+  "165.254.20.0/24": {
+    "authorized_as": 22687,
+    "max_length": 24
+  },
+  "165.254.66.0/24": {
+    "authorized_as": 22691,
+    "max_length": 24
+  },
+  "50.151.51.0/24": {
+    "authorized_as": 22694,
+    "max_length": 24
+  },
+  "141.193.3.0/24": {
+    "authorized_as": 22697,
+    "max_length": 24
+  },
+  "142.249.191.0/24": {
+    "authorized_as": 22742,
+    "max_length": 24
+  },
+  "192.195.240.0/24": {
+    "authorized_as": 22772,
+    "max_length": 24
+  },
+  "98.164.57.32/27": {
+    "authorized_as": 22773,
+    "max_length": 27
+  },
+  "66.210.175.0/24": {
+    "authorized_as": 22898,
+    "max_length": 24
+  },
+  "162.151.8.128/25": {
+    "authorized_as": 22909,
+    "max_length": 25
+  },
+  "207.145.102.0/24": {
+    "authorized_as": 22911,
+    "max_length": 24
+  },
+  "162.211.160.0/21": {
+    "authorized_as": 22925,
+    "max_length": 24
+  },
+  "208.70.36.0/22": {
+    "authorized_as": 22926,
+    "max_length": 22
+  },
+  "47.45.54.0/24": {
+    "authorized_as": 22974,
+    "max_length": 24
+  },
+  "152.86.64.0/19": {
+    "authorized_as": 22987,
+    "max_length": 19
+  },
+  "162.255.148.0/22": {
+    "authorized_as": 22995,
+    "max_length": 22
+  },
+  "166.0.148.0/24": {
+    "authorized_as": 23005,
+    "max_length": 24
+  },
+  "216.31.33.0/24": {
+    "authorized_as": 23028,
+    "max_length": 24
+  },
+  "160.202.132.0/24": {
+    "authorized_as": 23033,
+    "max_length": 24
+  },
+  "157.191.12.0/24": {
+    "authorized_as": 23047,
+    "max_length": 24
+  },
+  "8.8.9.0/24": {
+    "authorized_as": 23089,
+    "max_length": 24
+  },
+  "23.235.48.0/24": {
+    "authorized_as": 23096,
+    "max_length": 24
+  },
+  "204.2.88.0/21": {
+    "authorized_as": 23114,
+    "max_length": 24
+  },
+  "69.36.208.0/24": {
+    "authorized_as": 23118,
+    "max_length": 24
+  },
+  "66.189.251.0/24": {
+    "authorized_as": 23132,
+    "max_length": 24
+  },
+  "204.154.20.0/23": {
+    "authorized_as": 23158,
+    "max_length": 24
+  },
+  "206.125.154.0/23": {
+    "authorized_as": 23188,
+    "max_length": 24
+  },
+  "35.132.38.0/24": {
+    "authorized_as": 23222,
+    "max_length": 24
+  },
+  "199.36.132.0/22": {
+    "authorized_as": 23248,
+    "max_length": 22
+  },
+  "205.189.48.0/23": {
+    "authorized_as": 23252,
+    "max_length": 23
+  },
+  "67.158.224.0/20": {
+    "authorized_as": 23265,
+    "max_length": 20
+  },
+  "23.27.160.0/24": {
+    "authorized_as": 400043,
+    "max_length": 24
+  },
+  "63.135.65.0/24": {
+    "authorized_as": 23342,
+    "max_length": 24
+  },
+  "64.202.113.0/24": {
+    "authorized_as": 23352,
+    "max_length": 24
+  },
+  "206.198.181.0/24": {
+    "authorized_as": 23367,
+    "max_length": 24
+  },
+  "45.10.21.0/24": {
+    "authorized_as": 23422,
+    "max_length": 24
+  },
+  "64.122.37.0/24": {
+    "authorized_as": 23465,
+    "max_length": 24
+  },
+  "2.26.161.0/24": {
+    "authorized_as": 23470,
+    "max_length": 24
+  },
+  "50.30.128.0/24": {
+    "authorized_as": 23473,
+    "max_length": 24
+  },
+  "63.245.1.0/24": {
+    "authorized_as": 23520,
+    "max_length": 24
+  },
+  "23.156.104.0/24": {
+    "authorized_as": 55201,
+    "max_length": 24
+  },
+  "162.208.108.0/22": {
+    "authorized_as": 23535,
+    "max_length": 24
+  },
+  "192.96.233.0/24": {
+    "authorized_as": 25615,
+    "max_length": 24
+  },
+  "64.118.0.0/20": {
+    "authorized_as": 25637,
+    "max_length": 20
+  },
+  "23.148.80.0/24": {
+    "authorized_as": 25645,
+    "max_length": 24
+  },
+  "143.55.152.0/23": {
+    "authorized_as": 25649,
+    "max_length": 24
+  },
+  "64.198.221.0/24": {
+    "authorized_as": 25660,
+    "max_length": 24
+  },
+  "209.52.228.0/24": {
+    "authorized_as": 25668,
+    "max_length": 24
+  },
+  "192.171.13.0/24": {
+    "authorized_as": 25769,
+    "max_length": 24
+  },
+  "142.249.140.0/22": {
+    "authorized_as": 25787,
+    "max_length": 24
+  },
+  "206.125.172.0/24": {
+    "authorized_as": 25795,
+    "max_length": 24
+  },
+  "23.173.216.0/24": {
+    "authorized_as": 396073,
+    "max_length": 24
+  },
+  "192.119.2.0/23": {
+    "authorized_as": 25853,
+    "max_length": 24
+  },
+  "63.251.229.0/24": {
+    "authorized_as": 25899,
+    "max_length": 24
+  },
+  "108.160.80.0/24": {
+    "authorized_as": 25914,
+    "max_length": 24
+  },
+  "153.7.252.0/24": {
+    "authorized_as": 25932,
+    "max_length": 24
+  },
+  "69.176.92.0/24": {
+    "authorized_as": 25956,
+    "max_length": 24
+  },
+  "204.147.0.0/20": {
+    "authorized_as": 25979,
+    "max_length": 20
+  },
+  "23.142.204.0/24": {
+    "authorized_as": 26042,
+    "max_length": 24
+  },
+  "23.139.160.0/24": {
+    "authorized_as": 26073,
+    "max_length": 24
+  },
+  "162.218.76.0/22": {
+    "authorized_as": 26076,
+    "max_length": 22
+  },
+  "161.199.162.0/24": {
+    "authorized_as": 26077,
+    "max_length": 24
+  },
+  "205.156.60.0/24": {
+    "authorized_as": 26100,
+    "max_length": 24
+  },
+  "38.111.122.0/24": {
+    "authorized_as": 26110,
+    "max_length": 24
+  },
+  "72.13.33.0/24": {
+    "authorized_as": 26134,
+    "max_length": 24
+  },
+  "45.90.237.0/24": {
+    "authorized_as": 26141,
+    "max_length": 24
+  },
+  "192.243.36.0/24": {
+    "authorized_as": 26223,
+    "max_length": 24
+  },
+  "23.180.192.0/24": {
+    "authorized_as": 26253,
+    "max_length": 24
+  },
+  "162.249.112.0/22": {
+    "authorized_as": 26271,
+    "max_length": 24
+  },
+  "23.137.132.0/24": {
+    "authorized_as": 26286,
+    "max_length": 24
+  },
+  "199.180.212.0/22": {
+    "authorized_as": 26292,
+    "max_length": 24
+  },
+  "66.235.195.0/24": {
+    "authorized_as": 26337,
+    "max_length": 24
+  },
+  "91.106.220.0/22": {
+    "authorized_as": 26356,
+    "max_length": 24
+  },
+  "23.178.224.0/24": {
+    "authorized_as": 26370,
+    "max_length": 24
+  },
+  "50.118.196.0/24": {
+    "authorized_as": 26375,
+    "max_length": 24
+  },
+  "192.58.128.0/24": {
+    "authorized_as": 26415,
+    "max_length": 24
+  },
+  "62.75.134.0/24": {
+    "authorized_as": 26496,
+    "max_length": 24
+  },
+  "104.244.16.0/24": {
+    "authorized_as": 26512,
+    "max_length": 24
+  },
+  "162.252.132.0/22": {
+    "authorized_as": 26523,
+    "max_length": 24
+  },
+  "2.27.84.0/24": {
+    "authorized_as": 26548,
+    "max_length": 24
+  },
+  "192.159.31.0/24": {
+    "authorized_as": 26549,
+    "max_length": 24
+  },
+  "65.23.88.0/24": {
+    "authorized_as": 26554,
+    "max_length": 24
+  },
+  "50.121.151.0/24": {
+    "authorized_as": 26650,
+    "max_length": 24
+  },
+  "216.66.75.0/24": {
+    "authorized_as": 26652,
+    "max_length": 24
+  },
+  "23.136.172.0/24": {
+    "authorized_as": 26666,
+    "max_length": 24
+  },
+  "66.97.20.88/29": {
+    "authorized_as": 26677,
+    "max_length": 29
+  },
+  "23.130.128.0/24": {
+    "authorized_as": 26721,
+    "max_length": 24
+  },
+  "45.65.114.0/24": {
+    "authorized_as": 26737,
+    "max_length": 24
+  },
+  "68.170.240.0/24": {
+    "authorized_as": 26744,
+    "max_length": 24
+  },
+  "147.160.128.0/22": {
+    "authorized_as": 26801,
+    "max_length": 22
+  },
+  "198.169.21.0/24": {
+    "authorized_as": 26806,
+    "max_length": 24
+  },
+  "199.193.56.0/24": {
+    "authorized_as": 26827,
+    "max_length": 24
+  },
+  "66.17.96.0/19": {
+    "authorized_as": 26860,
+    "max_length": 24
+  },
+  "128.177.101.0/24": {
+    "authorized_as": 26878,
+    "max_length": 24
+  },
+  "199.101.75.0/24": {
+    "authorized_as": 26968,
+    "max_length": 24
+  },
+  "66.39.160.0/19": {
+    "authorized_as": 27008,
+    "max_length": 19
+  },
+  "66.248.254.0/24": {
+    "authorized_as": 27228,
+    "max_length": 24
+  },
+  "147.75.128.0/24": {
+    "authorized_as": 27257,
+    "max_length": 24
+  },
+  "162.216.80.0/22": {
+    "authorized_as": 27258,
+    "max_length": 22
+  },
+  "24.227.211.0/24": {
+    "authorized_as": 27325,
+    "max_length": 24
+  },
+  "23.170.24.0/24": {
+    "authorized_as": 27345,
+    "max_length": 24
+  },
+  "24.129.245.0/24": {
+    "authorized_as": 27364,
+    "max_length": 24
+  },
+  "192.251.197.0/24": {
+    "authorized_as": 27373,
+    "max_length": 24
+  },
+  "154.28.134.0/24": {
+    "authorized_as": 27425,
+    "max_length": 24
+  },
+  "64.147.208.0/24": {
+    "authorized_as": 27446,
+    "max_length": 24
+  },
+  "103.25.144.0/22": {
+    "authorized_as": 27501,
+    "max_length": 24
+  },
+  "23.154.104.0/24": {
+    "authorized_as": 27523,
+    "max_length": 24
+  },
+  "64.68.10.0/24": {
+    "authorized_as": 27539,
+    "max_length": 24
+  },
+  "162.219.96.0/24": {
+    "authorized_as": 27552,
+    "max_length": 24
+  },
+  "216.144.200.0/21": {
+    "authorized_as": 27553,
+    "max_length": 24
+  },
+  "104.193.120.0/22": {
+    "authorized_as": 27589,
+    "max_length": 24
+  },
+  "198.161.203.0/24": {
+    "authorized_as": 27623,
+    "max_length": 24
+  },
+  "66.179.18.0/23": {
+    "authorized_as": 29748,
+    "max_length": 24
+  },
+  "23.251.35.0/24": {
+    "authorized_as": 29752,
+    "max_length": 24
+  },
+  "192.104.0.0/24": {
+    "authorized_as": 29765,
+    "max_length": 24
+  },
+  "89.111.15.128/26": {
+    "authorized_as": 29802,
+    "max_length": 26
+  },
+  "206.168.68.0/24": {
+    "authorized_as": 29831,
+    "max_length": 24
+  },
+  "142.154.208.0/24": {
+    "authorized_as": 29838,
+    "max_length": 24
+  },
+  "162.211.152.0/22": {
+    "authorized_as": 29844,
+    "max_length": 22
+  },
+  "192.190.237.0/24": {
+    "authorized_as": 29848,
+    "max_length": 24
+  },
+  "162.218.195.0/24": {
+    "authorized_as": 29900,
+    "max_length": 24
+  },
+  "74.220.84.0/24": {
+    "authorized_as": 29909,
+    "max_length": 24
+  },
+  "64.125.230.0/24": {
+    "authorized_as": 29944,
+    "max_length": 24
+  },
+  "69.41.192.0/20": {
+    "authorized_as": 29953,
+    "max_length": 24
+  },
+  "207.236.240.0/24": {
+    "authorized_as": 29974,
+    "max_length": 24
+  },
+  "199.193.84.0/22": {
+    "authorized_as": 29979,
+    "max_length": 22
+  },
+  "207.112.10.0/23": {
+    "authorized_as": 29988,
+    "max_length": 24
+  },
+  "208.64.160.0/22": {
+    "authorized_as": 30001,
+    "max_length": 22
+  },
+  "205.200.94.0/24": {
+    "authorized_as": 30028,
+    "max_length": 24
+  },
+  "198.98.24.0/21": {
+    "authorized_as": 400662,
+    "max_length": 24
+  },
+  "23.159.24.0/24": {
+    "authorized_as": 53610,
+    "max_length": 24
+  },
+  "2.27.242.0/24": {
+    "authorized_as": 30058,
+    "max_length": 24
+  },
+  "50.31.196.0/24": {
+    "authorized_as": 30081,
+    "max_length": 24
+  },
+  "23.182.120.0/24": {
+    "authorized_as": 30094,
+    "max_length": 24
+  },
+  "198.59.140.0/22": {
+    "authorized_as": 30110,
+    "max_length": 24
+  },
+  "192.228.84.0/24": {
+    "authorized_as": 30124,
+    "max_length": 24
+  },
+  "149.20.5.0/24": {
+    "authorized_as": 30132,
+    "max_length": 24
+  },
+  "205.144.208.0/20": {
+    "authorized_as": 30165,
+    "max_length": 24
+  },
+  "204.8.32.0/22": {
+    "authorized_as": 30170,
+    "max_length": 24
+  },
+  "192.76.4.0/23": {
+    "authorized_as": 30174,
+    "max_length": 24
+  },
+  "192.231.5.0/24": {
+    "authorized_as": 30176,
+    "max_length": 24
+  },
+  "68.68.216.0/24": {
+    "authorized_as": 30221,
+    "max_length": 24
+  },
+  "128.128.96.0/19": {
+    "authorized_as": 30257,
+    "max_length": 19
+  },
+  "69.36.192.0/20": {
+    "authorized_as": 30263,
+    "max_length": 24
+  },
+  "138.43.210.0/23": {
+    "authorized_as": 30264,
+    "max_length": 24
+  },
+  "31.186.224.0/24": {
+    "authorized_as": 30282,
+    "max_length": 24
+  },
+  "207.96.137.0/24": {
+    "authorized_as": 30336,
+    "max_length": 24
+  },
+  "207.223.100.0/22": {
+    "authorized_as": 30371,
+    "max_length": 22
+  },
+  "66.118.246.0/24": {
+    "authorized_as": 30455,
+    "max_length": 24
+  },
+  "23.136.28.0/24": {
+    "authorized_as": 30456,
+    "max_length": 32
+  },
+  "136.175.52.0/22": {
+    "authorized_as": 30462,
+    "max_length": 24
+  },
+  "45.95.15.0/24": {
+    "authorized_as": 30475,
+    "max_length": 24
+  },
+  "208.123.208.0/24": {
+    "authorized_as": 30500,
+    "max_length": 24
+  },
+  "148.59.61.0/24": {
+    "authorized_as": 30517,
+    "max_length": 24
+  },
+  "103.162.250.0/24": {
+    "authorized_as": 30524,
+    "max_length": 24
+  },
+  "208.73.52.0/24": {
+    "authorized_as": 30536,
+    "max_length": 24
+  },
+  "72.59.128.0/19": {
+    "authorized_as": 30600,
+    "max_length": 24
+  },
+  "204.2.150.0/24": {
+    "authorized_as": 30640,
+    "max_length": 24
+  },
+  "162.33.0.0/20": {
+    "authorized_as": 30688,
+    "max_length": 24
+  },
+  "64.62.226.0/24": {
+    "authorized_as": 31769,
+    "max_length": 24
+  },
+  "216.252.192.0/20": {
+    "authorized_as": 31827,
+    "max_length": 24
+  },
+  "208.90.16.0/21": {
+    "authorized_as": 31834,
+    "max_length": 24
+  },
+  "104.234.30.0/24": {
+    "authorized_as": 31863,
+    "max_length": 24
+  },
+  "167.94.156.0/24": {
+    "authorized_as": 31877,
+    "max_length": 24
+  },
+  "5.226.187.0/24": {
+    "authorized_as": 31898,
+    "max_length": 24
+  },
+  "139.64.216.0/23": {
+    "authorized_as": 31914,
+    "max_length": 24
+  },
+  "50.235.175.0/24": {
+    "authorized_as": 31929,
+    "max_length": 24
+  },
+  "155.2.214.0/24": {
+    "authorized_as": 32002,
+    "max_length": 24
+  },
+  "45.45.168.0/24": {
+    "authorized_as": 32030,
+    "max_length": 24
+  },
+  "66.43.92.0/24": {
+    "authorized_as": 32035,
+    "max_length": 24
+  },
+  "66.85.7.0/24": {
+    "authorized_as": 32097,
+    "max_length": 24
+  },
+  "38.22.162.0/24": {
+    "authorized_as": 32098,
+    "max_length": 24
+  },
+  "64.98.47.0/24": {
+    "authorized_as": 32133,
+    "max_length": 24
+  },
+  "23.178.152.0/24": {
+    "authorized_as": 32169,
+    "max_length": 24
+  },
+  "45.39.44.0/24": {
+    "authorized_as": 32181,
+    "max_length": 24
+  },
+  "141.193.227.0/24": {
+    "authorized_as": 32212,
+    "max_length": 24
+  },
+  "23.156.192.0/24": {
+    "authorized_as": 32217,
+    "max_length": 24
+  },
+  "24.233.64.0/19": {
+    "authorized_as": 32220,
+    "max_length": 24
+  },
+  "159.135.48.0/20": {
+    "authorized_as": 32244,
+    "max_length": 20
+  },
+  "23.140.184.0/24": {
+    "authorized_as": 32281,
+    "max_length": 24
+  },
+  "45.78.144.0/20": {
+    "authorized_as": 32298,
+    "max_length": 24
+  },
+  "199.4.162.0/24": {
+    "authorized_as": 32329,
+    "max_length": 24
+  },
+  "204.11.104.0/22": {
+    "authorized_as": 32354,
+    "max_length": 24
+  },
+  "70.32.140.0/24": {
+    "authorized_as": 32381,
+    "max_length": 24
+  },
+  "130.51.0.0/22": {
+    "authorized_as": 32391,
+    "max_length": 24
+  },
+  "199.83.112.0/22": {
+    "authorized_as": 32413,
+    "max_length": 22
+  },
+  "192.142.32.0/24": {
+    "authorized_as": 32415,
+    "max_length": 24
+  },
+  "70.40.152.0/24": {
+    "authorized_as": 32425,
+    "max_length": 24
+  },
+  "104.141.14.0/24": {
+    "authorized_as": 32440,
+    "max_length": 24
+  },
+  "64.52.21.0/24": {
+    "authorized_as": 32473,
+    "max_length": 24
+  },
+  "103.96.100.0/24": {
+    "authorized_as": 32475,
+    "max_length": 24
+  },
+  "64.9.208.0/21": {
+    "authorized_as": 32477,
+    "max_length": 24
+  },
+  "199.180.190.0/24": {
+    "authorized_as": 32505,
+    "max_length": 24
+  },
+  "64.147.16.0/24": {
+    "authorized_as": 32524,
+    "max_length": 24
+  },
+  "64.239.202.0/24": {
+    "authorized_as": 32592,
+    "max_length": 24
+  },
+  "23.19.52.0/24": {
+    "authorized_as": 32613,
+    "max_length": 24
+  },
+  "216.45.236.0/24": {
+    "authorized_as": 32621,
+    "max_length": 24
+  },
+  "66.132.145.0/24": {
+    "authorized_as": 32697,
+    "max_length": 24
+  },
+  "64.184.1.0/24": {
+    "authorized_as": 32703,
+    "max_length": 24
+  },
+  "63.134.187.0/24": {
+    "authorized_as": 32709,
+    "max_length": 24
+  },
+  "216.6.147.0/24": {
+    "authorized_as": 32723,
+    "max_length": 24
+  },
+  "208.70.56.0/21": {
+    "authorized_as": 32738,
+    "max_length": 24
+  },
+  "107.178.58.0/24": {
+    "authorized_as": 32748,
+    "max_length": 24
+  },
+  "168.143.255.66/32": {
+    "authorized_as": 32787,
+    "max_length": 32
+  },
+  "74.122.240.0/24": {
+    "authorized_as": 32799,
+    "max_length": 24
+  },
+  "70.36.80.0/22": {
+    "authorized_as": 32808,
+    "max_length": 32
+  },
+  "147.92.3.0/24": {
+    "authorized_as": 32867,
+    "max_length": 24
+  },
+  "23.157.152.0/24": {
+    "authorized_as": 32913,
+    "max_length": 24
+  },
+  "31.13.64.0/24": {
+    "authorized_as": 32934,
+    "max_length": 24
+  },
+  "192.122.206.0/24": {
+    "authorized_as": 33044,
+    "max_length": 24
+  },
+  "64.92.69.0/24": {
+    "authorized_as": 33059,
+    "max_length": 24
+  },
+  "199.6.0.0/24": {
+    "authorized_as": 33071,
+    "max_length": 24
+  },
+  "23.129.196.0/24": {
+    "authorized_as": 33083,
+    "max_length": 24
+  },
+  "23.157.232.0/24": {
+    "authorized_as": 33099,
+    "max_length": 24
+  },
+  "204.9.152.0/21": {
+    "authorized_as": 33125,
+    "max_length": 24
+  },
+  "136.175.141.0/24": {
+    "authorized_as": 33132,
+    "max_length": 24
+  },
+  "66.198.208.0/22": {
+    "authorized_as": 33152,
+    "max_length": 24
+  },
+  "45.41.203.0/24": {
+    "authorized_as": 33154,
+    "max_length": 24
+  },
+  "162.252.184.0/24": {
+    "authorized_as": 33164,
+    "max_length": 24
+  },
+  "45.192.250.0/24": {
+    "authorized_as": 33182,
+    "max_length": 24
+  },
+  "37.221.110.0/24": {
+    "authorized_as": 33185,
+    "max_length": 24
+  },
+  "206.71.32.0/24": {
+    "authorized_as": 33189,
+    "max_length": 24
+  },
+  "23.142.112.0/24": {
+    "authorized_as": 33201,
+    "max_length": 24
+  },
+  "158.51.148.0/24": {
+    "authorized_as": 33218,
+    "max_length": 24
+  },
+  "65.49.127.0/24": {
+    "authorized_as": 33247,
+    "max_length": 24
+  },
+  "162.150.17.96/28": {
+    "authorized_as": 33287,
+    "max_length": 28
+  },
+  "64.111.16.0/20": {
+    "authorized_as": 33302,
+    "max_length": 24
+  },
+  "199.189.204.0/24": {
+    "authorized_as": 33309,
+    "max_length": 24
+  },
+  "68.168.16.0/20": {
+    "authorized_as": 33333,
+    "max_length": 24
+  },
+  "103.123.138.0/24": {
+    "authorized_as": 33353,
+    "max_length": 24
+  },
+  "204.15.32.0/23": {
+    "authorized_as": 33361,
+    "max_length": 23
+  },
+  "64.77.213.0/24": {
+    "authorized_as": 33362,
+    "max_length": 24
+  },
+  "24.73.117.0/24": {
+    "authorized_as": 33363,
+    "max_length": 24
+  },
+  "23.148.20.0/24": {
+    "authorized_as": 33387,
+    "max_length": 24
+  },
+  "74.116.92.0/24": {
+    "authorized_as": 33392,
+    "max_length": 24
+  },
+  "64.28.232.0/22": {
+    "authorized_as": 33470,
+    "max_length": 22
+  },
+  "162.151.239.128/26": {
+    "authorized_as": 33489,
+    "max_length": 26
+  },
+  "67.178.17.176/28": {
+    "authorized_as": 33490,
+    "max_length": 28
+  },
+  "67.178.21.176/28": {
+    "authorized_as": 33491,
+    "max_length": 28
+  },
+  "72.250.176.0/20": {
+    "authorized_as": 33501,
+    "max_length": 24
+  },
+  "208.185.100.0/24": {
+    "authorized_as": 33544,
+    "max_length": 24
+  },
+  "142.214.229.0/24": {
+    "authorized_as": 33548,
+    "max_length": 24
+  },
+  "204.191.218.0/24": {
+    "authorized_as": 33549,
+    "max_length": 24
+  },
+  "138.84.206.0/23": {
+    "authorized_as": 33561,
+    "max_length": 23
+  },
+  "66.97.177.0/24": {
+    "authorized_as": 33566,
+    "max_length": 24
+  },
+  "38.81.103.0/24": {
+    "authorized_as": 33570,
+    "max_length": 24
+  },
+  "181.177.216.0/22": {
+    "authorized_as": 33576,
+    "max_length": 24
+  },
+  "35.132.0.0/24": {
+    "authorized_as": 33588,
+    "max_length": 24
+  },
+  "162.247.88.0/22": {
+    "authorized_as": 33604,
+    "max_length": 22
+  },
+  "38.135.144.0/22": {
+    "authorized_as": 33616,
+    "max_length": 24
+  },
+  "66.36.113.0/24": {
+    "authorized_as": 33635,
+    "max_length": 24
+  },
+  "162.151.83.128/25": {
+    "authorized_as": 33650,
+    "max_length": 25
+  },
+  "67.178.39.112/28": {
+    "authorized_as": 33651,
+    "max_length": 28
+  },
+  "162.151.8.0/25": {
+    "authorized_as": 33652,
+    "max_length": 25
+  },
+  "162.151.13.128/25": {
+    "authorized_as": 33654,
+    "max_length": 25
+  },
+  "96.216.23.0/25": {
+    "authorized_as": 33655,
+    "max_length": 25
+  },
+  "162.151.130.128/25": {
+    "authorized_as": 33656,
+    "max_length": 25
+  },
+  "96.91.200.236/30": {
+    "authorized_as": 33657,
+    "max_length": 30
+  },
+  "162.150.17.112/28": {
+    "authorized_as": 33659,
+    "max_length": 28
+  },
+  "69.252.200.64/27": {
+    "authorized_as": 33660,
+    "max_length": 27
+  },
+  "67.178.8.16/28": {
+    "authorized_as": 33661,
+    "max_length": 28
+  },
+  "162.151.4.128/25": {
+    "authorized_as": 33662,
+    "max_length": 25
+  },
+  "162.151.153.0/25": {
+    "authorized_as": 33665,
+    "max_length": 25
+  },
+  "64.139.92.0/24": {
+    "authorized_as": 33666,
+    "max_length": 24
+  },
+  "162.151.18.128/25": {
+    "authorized_as": 33667,
+    "max_length": 25
+  },
+  "162.151.4.0/25": {
+    "authorized_as": 33668,
+    "max_length": 25
+  },
+  "103.188.42.0/23": {
+    "authorized_as": 33680,
+    "max_length": 23
+  },
+  "66.85.13.0/24": {
+    "authorized_as": 33724,
+    "max_length": 24
+  },
+  "142.0.48.0/20": {
+    "authorized_as": 33725,
+    "max_length": 20
+  },
+  "23.141.112.0/24": {
+    "authorized_as": 34553,
+    "max_length": 24
+  },
+  "23.153.56.0/24": {
+    "authorized_as": 35008,
+    "max_length": 24
+  },
+  "72.244.44.0/24": {
+    "authorized_as": 35847,
+    "max_length": 24
+  },
+  "192.83.205.0/24": {
+    "authorized_as": 35891,
+    "max_length": 24
+  },
+  "72.172.85.0/24": {
+    "authorized_as": 35908,
+    "max_length": 24
+  },
+  "206.47.196.0/24": {
+    "authorized_as": 35911,
+    "max_length": 24
+  },
+  "23.159.9.0/24": {
+    "authorized_as": 35916,
+    "max_length": 24
+  },
+  "204.2.154.192/28": {
+    "authorized_as": 35953,
+    "max_length": 28
+  },
+  "50.235.243.0/24": {
+    "authorized_as": 35962,
+    "max_length": 24
+  },
+  "72.215.12.0/24": {
+    "authorized_as": 35986,
+    "max_length": 24
+  },
+  "162.244.36.0/22": {
+    "authorized_as": 36012,
+    "max_length": 24
+  },
+  "23.184.168.0/24": {
+    "authorized_as": 36064,
+    "max_length": 24
+  },
+  "72.28.123.0/24": {
+    "authorized_as": 36086,
+    "max_length": 24
+  },
+  "23.88.162.0/24": {
+    "authorized_as": 36103,
+    "max_length": 24
+  },
+  "141.239.0.0/16": {
+    "authorized_as": 36149,
+    "max_length": 16
+  },
+  "23.138.96.0/24": {
+    "authorized_as": 36222,
+    "max_length": 24
+  },
+  "64.52.81.0/24": {
+    "authorized_as": 36231,
+    "max_length": 24
+  },
+  "23.143.68.0/24": {
+    "authorized_as": 36236,
+    "max_length": 24
+  },
+  "199.21.164.0/22": {
+    "authorized_as": 36290,
+    "max_length": 22
+  },
+  "192.153.46.0/24": {
+    "authorized_as": 36295,
+    "max_length": 24
+  },
+  "66.180.72.0/24": {
+    "authorized_as": 36315,
+    "max_length": 24
+  },
+  "208.74.248.0/21": {
+    "authorized_as": 36324,
+    "max_length": 24
+  },
+  "142.4.128.0/19": {
+    "authorized_as": 36327,
+    "max_length": 19
+  },
+  "5.83.159.0/24": {
+    "authorized_as": 36351,
+    "max_length": 24
+  },
+  "5.181.182.0/24": {
+    "authorized_as": 36352,
+    "max_length": 24
+  },
+  "72.18.118.0/23": {
+    "authorized_as": 36374,
+    "max_length": 23
+  },
+  "23.185.24.0/24": {
+    "authorized_as": 36382,
+    "max_length": 24
+  },
+  "185.25.30.0/24": {
+    "authorized_as": 36385,
+    "max_length": 24
+  },
+  "162.247.128.0/22": {
+    "authorized_as": 36436,
+    "max_length": 24
+  },
+  "66.38.192.0/24": {
+    "authorized_as": 36493,
+    "max_length": 24
+  },
+  "23.142.132.0/24": {
+    "authorized_as": 36530,
+    "max_length": 24
+  },
+  "63.251.158.0/24": {
+    "authorized_as": 36549,
+    "max_length": 24
+  },
+  "69.9.168.0/23": {
+    "authorized_as": 36593,
+    "max_length": 24
+  },
+  "104.243.209.0/24": {
+    "authorized_as": 36601,
+    "max_length": 24
+  },
+  "69.176.31.0/24": {
+    "authorized_as": 36610,
+    "max_length": 24
+  },
+  "23.148.212.0/24": {
+    "authorized_as": 36678,
+    "max_length": 24
+  },
+  "67.215.64.0/24": {
+    "authorized_as": 36692,
+    "max_length": 24
+  },
+  "167.100.20.0/23": {
+    "authorized_as": 36724,
+    "max_length": 23
+  },
+  "64.127.80.0/20": {
+    "authorized_as": 36813,
+    "max_length": 24
+  },
+  "23.172.184.0/24": {
+    "authorized_as": 36858,
+    "max_length": 24
+  },
+  "199.127.129.0/24": {
+    "authorized_as": 38439,
+    "max_length": 24
+  },
+  "50.114.119.0/24": {
+    "authorized_as": 39600,
+    "max_length": 24
+  },
+  "64.50.160.0/24": {
+    "authorized_as": 39944,
+    "max_length": 24
+  },
+  "162.252.169.0/24": {
+    "authorized_as": 40028,
+    "max_length": 24
+  },
+  "104.245.224.0/22": {
+    "authorized_as": 40029,
+    "max_length": 22
+  },
+  "2.56.255.0/24": {
+    "authorized_as": 40065,
+    "max_length": 24
+  },
+  "194.146.104.0/24": {
+    "authorized_as": 40092,
+    "max_length": 24
+  },
+  "170.118.248.0/21": {
+    "authorized_as": 40111,
+    "max_length": 21
+  },
+  "41.221.210.0/24": {
+    "authorized_as": 40123,
+    "max_length": 24
+  },
+  "134.174.0.0/16": {
+    "authorized_as": 40127,
+    "max_length": 16
+  },
+  "204.141.80.0/22": {
+    "authorized_as": 40128,
+    "max_length": 24
+  },
+  "142.249.221.0/24": {
+    "authorized_as": 40156,
+    "max_length": 24
+  },
+  "199.199.18.0/24": {
+    "authorized_as": 40160,
+    "max_length": 24
+  },
+  "192.209.18.0/24": {
+    "authorized_as": 40217,
+    "max_length": 24
+  },
+  "64.184.232.0/23": {
+    "authorized_as": 40284,
+    "max_length": 24
+  },
+  "137.118.90.0/24": {
+    "authorized_as": 40317,
+    "max_length": 24
+  },
+  "108.59.100.0/24": {
+    "authorized_as": 40328,
+    "max_length": 24
+  },
+  "23.144.80.0/24": {
+    "authorized_as": 40401,
+    "max_length": 24
+  },
+  "198.133.214.0/24": {
+    "authorized_as": 40443,
+    "max_length": 24
+  },
+  "209.178.216.0/21": {
+    "authorized_as": 40463,
+    "max_length": 24
+  },
+  "192.41.177.0/24": {
+    "authorized_as": 54048,
+    "max_length": 24
+  },
+  "23.139.196.0/24": {
+    "authorized_as": 40536,
+    "max_length": 24
+  },
+  "199.190.196.0/23": {
+    "authorized_as": 40545,
+    "max_length": 24
+  },
+  "143.109.62.0/24": {
+    "authorized_as": 40564,
+    "max_length": 24
+  },
+  "23.144.148.0/24": {
+    "authorized_as": 40581,
+    "max_length": 24
+  },
+  "204.13.88.0/22": {
+    "authorized_as": 40630,
+    "max_length": 24
+  },
+  "2.26.163.0/24": {
+    "authorized_as": 40676,
+    "max_length": 24
+  },
+  "157.166.128.0/24": {
+    "authorized_as": 40703,
+    "max_length": 24
+  },
+  "23.138.148.0/24": {
+    "authorized_as": 40779,
+    "max_length": 24
+  },
+  "23.182.0.0/24": {
+    "authorized_as": 40788,
+    "max_length": 24
+  },
+  "50.224.254.0/23": {
+    "authorized_as": 40805,
+    "max_length": 23
+  },
+  "143.255.156.0/24": {
+    "authorized_as": 40824,
+    "max_length": 24
+  },
+  "50.216.106.0/24": {
+    "authorized_as": 40831,
+    "max_length": 24
+  },
+  "192.69.225.0/24": {
+    "authorized_as": 40841,
+    "max_length": 24
+  },
+  "23.144.128.0/24": {
+    "authorized_as": 40864,
+    "max_length": 24
+  },
+  "38.252.76.0/22": {
+    "authorized_as": 40880,
+    "max_length": 22
+  },
+  "45.159.189.0/24": {
+    "authorized_as": 40893,
+    "max_length": 24
+  },
+  "45.158.166.0/24": {
+    "authorized_as": 40913,
+    "max_length": 24
+  },
+  "192.232.0.0/24": {
+    "authorized_as": 40948,
+    "max_length": 24
+  },
+  "45.38.51.0/24": {
+    "authorized_as": 40950,
+    "max_length": 24
+  },
+  "23.135.148.0/24": {
+    "authorized_as": 44570,
+    "max_length": 24
+  },
+  "23.156.248.0/24": {
+    "authorized_as": 46109,
+    "max_length": 24
+  },
+  "205.196.120.0/22": {
+    "authorized_as": 46179,
+    "max_length": 22
+  },
+  "208.38.196.0/24": {
+    "authorized_as": 46193,
+    "max_length": 24
+  },
+  "67.214.182.0/23": {
+    "authorized_as": 46208,
+    "max_length": 24
+  },
+  "192.34.120.0/21": {
+    "authorized_as": 46231,
+    "max_length": 21
+  },
+  "64.145.73.0/24": {
+    "authorized_as": 46253,
+    "max_length": 24
+  },
+  "5.44.255.0/24": {
+    "authorized_as": 46261,
+    "max_length": 24
+  },
+  "204.11.129.0/24": {
+    "authorized_as": 46262,
+    "max_length": 24
+  },
+  "173.195.176.0/20": {
+    "authorized_as": 46276,
+    "max_length": 20
+  },
+  "206.167.70.0/23": {
+    "authorized_as": 46293,
+    "max_length": 23
+  },
+  "74.118.180.0/22": {
+    "authorized_as": 46309,
+    "max_length": 24
+  },
+  "199.245.68.0/24": {
+    "authorized_as": 46375,
+    "max_length": 24
+  },
+  "162.212.210.0/23": {
+    "authorized_as": 46408,
+    "max_length": 24
+  },
+  "129.101.249.0/24": {
+    "authorized_as": 46435,
+    "max_length": 24
+  },
+  "192.67.253.0/24": {
+    "authorized_as": 46446,
+    "max_length": 24
+  },
+  "45.14.166.0/24": {
+    "authorized_as": 46450,
+    "max_length": 24
+  },
+  "67.22.220.0/24": {
+    "authorized_as": 46455,
+    "max_length": 24
+  },
+  "23.131.216.0/24": {
+    "authorized_as": 46475,
+    "max_length": 24
+  },
+  "185.212.104.0/24": {
+    "authorized_as": 46484,
+    "max_length": 24
+  },
+  "65.49.53.0/24": {
+    "authorized_as": 46491,
+    "max_length": 24
+  },
+  "76.164.163.0/24": {
+    "authorized_as": 46506,
+    "max_length": 24
+  },
+  "45.95.37.0/24": {
+    "authorized_as": 46562,
+    "max_length": 24
+  },
+  "162.254.16.0/22": {
+    "authorized_as": 46632,
+    "max_length": 24
+  },
+  "97.77.58.0/24": {
+    "authorized_as": 46639,
+    "max_length": 24
+  },
+  "104.245.92.0/22": {
+    "authorized_as": 46650,
+    "max_length": 24
+  },
+  "199.30.129.0/24": {
+    "authorized_as": 46672,
+    "max_length": 24
+  },
+  "104.232.16.0/20": {
+    "authorized_as": 46749,
+    "max_length": 24
+  },
+  "104.224.10.0/23": {
+    "authorized_as": 46781,
+    "max_length": 23
+  },
+  "23.147.8.0/24": {
+    "authorized_as": 46824,
+    "max_length": 24
+  },
+  "150.199.4.0/24": {
+    "authorized_as": 46832,
+    "max_length": 24
+  },
+  "91.209.40.0/24": {
+    "authorized_as": 46844,
+    "max_length": 24
+  },
+  "192.147.243.0/24": {
+    "authorized_as": 46846,
+    "max_length": 24
+  },
+  "104.36.252.0/22": {
+    "authorized_as": 46886,
+    "max_length": 32
+  },
+  "63.123.77.0/24": {
+    "authorized_as": 46887,
+    "max_length": 24
+  },
+  "164.163.108.0/22": {
+    "authorized_as": 46890,
+    "max_length": 24
+  },
+  "104.245.248.0/21": {
+    "authorized_as": 46906,
+    "max_length": 24
+  },
+  "23.133.120.0/24": {
+    "authorized_as": 46962,
+    "max_length": 24
+  },
+  "89.213.165.0/24": {
+    "authorized_as": 47869,
+    "max_length": 24
+  },
+  "199.36.64.0/22": {
+    "authorized_as": 53256,
+    "max_length": 22
+  },
+  "192.208.190.0/24": {
+    "authorized_as": 53264,
+    "max_length": 24
+  },
+  "199.168.204.0/24": {
+    "authorized_as": 53274,
+    "max_length": 24
+  },
+  "23.167.88.0/24": {
+    "authorized_as": 53301,
+    "max_length": 24
+  },
+  "104.153.198.210/32": {
+    "authorized_as": 53334,
+    "max_length": 32
+  },
+  "5.182.50.0/24": {
+    "authorized_as": 53340,
+    "max_length": 24
+  },
+  "96.31.14.0/24": {
+    "authorized_as": 53347,
+    "max_length": 24
+  },
+  "23.129.32.0/24": {
+    "authorized_as": 53356,
+    "max_length": 24
+  },
+  "23.152.132.0/24": {
+    "authorized_as": 53359,
+    "max_length": 24
+  },
+  "23.128.236.0/24": {
+    "authorized_as": 53388,
+    "max_length": 24
+  },
+  "192.199.198.0/24": {
+    "authorized_as": 53405,
+    "max_length": 24
+  },
+  "158.120.94.0/24": {
+    "authorized_as": 53407,
+    "max_length": 24
+  },
+  "192.171.200.0/21": {
+    "authorized_as": 53423,
+    "max_length": 24
+  },
+  "23.128.100.0/24": {
+    "authorized_as": 53427,
+    "max_length": 24
+  },
+  "209.35.32.0/20": {
+    "authorized_as": 53486,
+    "max_length": 24
+  },
+  "43.248.168.0/24": {
+    "authorized_as": 53587,
+    "max_length": 24
+  },
+  "204.11.135.0/24": {
+    "authorized_as": 53597,
+    "max_length": 24
+  },
+  "23.183.80.0/24": {
+    "authorized_as": 53667,
+    "max_length": 24
+  },
+  "23.176.24.0/24": {
+    "authorized_as": 53680,
+    "max_length": 24
+  },
+  "23.152.192.0/24": {
+    "authorized_as": 53698,
+    "max_length": 24
+  },
+  "45.93.83.0/24": {
+    "authorized_as": 53755,
+    "max_length": 24
+  },
+  "77.67.106.0/24": {
+    "authorized_as": 53767,
+    "max_length": 24
+  },
+  "104.218.104.0/22": {
+    "authorized_as": 53828,
+    "max_length": 22
+  },
+  "52.124.22.0/23": {
+    "authorized_as": 53848,
+    "max_length": 23
+  },
+  "162.244.229.0/24": {
+    "authorized_as": 53904,
+    "max_length": 24
+  },
+  "139.131.31.0/24": {
+    "authorized_as": 53927,
+    "max_length": 24
+  },
+  "141.193.80.0/22": {
+    "authorized_as": 53971,
+    "max_length": 24
+  },
+  "173.237.208.0/20": {
+    "authorized_as": 53999,
+    "max_length": 24
+  },
+  "23.141.124.0/24": {
+    "authorized_as": 54004,
+    "max_length": 24
+  },
+  "192.48.223.0/24": {
+    "authorized_as": 54054,
+    "max_length": 24
+  },
+  "5.10.193.0/24": {
+    "authorized_as": 54103,
+    "max_length": 24
+  },
+  "23.154.81.0/24": {
+    "authorized_as": 54133,
+    "max_length": 24
+  },
+  "136.175.79.0/24": {
+    "authorized_as": 54182,
+    "max_length": 24
+  },
+  "216.21.216.0/21": {
+    "authorized_as": 54225,
+    "max_length": 24
+  },
+  "209.151.220.0/24": {
+    "authorized_as": 54238,
+    "max_length": 24
+  },
+  "38.102.241.0/24": {
+    "authorized_as": 54270,
+    "max_length": 24
+  },
+  "72.140.232.0/22": {
+    "authorized_as": 54412,
+    "max_length": 24
+  },
+  "23.146.168.0/24": {
+    "authorized_as": 54429,
+    "max_length": 24
+  },
+  "142.214.132.0/24": {
+    "authorized_as": 54483,
+    "max_length": 24
+  },
+  "75.141.11.0/24": {
+    "authorized_as": 54519,
+    "max_length": 24
+  },
+  "199.16.108.0/22": {
+    "authorized_as": 54523,
+    "max_length": 24
+  },
+  "208.184.160.0/24": {
+    "authorized_as": 54549,
+    "max_length": 24
+  },
+  "103.206.84.0/22": {
+    "authorized_as": 54578,
+    "max_length": 22
+  },
+  "65.255.130.0/24": {
+    "authorized_as": 54579,
+    "max_length": 24
+  },
+  "50.117.69.0/24": {
+    "authorized_as": 54600,
+    "max_length": 24
+  },
+  "134.195.76.0/24": {
+    "authorized_as": 54613,
+    "max_length": 24
+  },
+  "170.62.121.0/24": {
+    "authorized_as": 54641,
+    "max_length": 24
+  },
+  "172.111.4.0/22": {
+    "authorized_as": 54646,
+    "max_length": 22
+  },
+  "66.62.146.0/24": {
+    "authorized_as": 54650,
+    "max_length": 24
+  },
+  "145.40.79.0/26": {
+    "authorized_as": 54825,
+    "max_length": 26
+  },
+  "162.222.20.0/22": {
+    "authorized_as": 54829,
+    "max_length": 22
+  },
+  "23.156.160.0/24": {
+    "authorized_as": 54841,
+    "max_length": 24
+  },
+  "104.167.213.0/24": {
+    "authorized_as": 54874,
+    "max_length": 24
+  },
+  "208.94.248.0/23": {
+    "authorized_as": 54945,
+    "max_length": 24
+  },
+  "23.169.32.0/24": {
+    "authorized_as": 54980,
+    "max_length": 24
+  },
+  "203.74.117.128/27": {
+    "authorized_as": 54994,
+    "max_length": 27
+  },
+  "62.244.244.0/24": {
+    "authorized_as": 55002,
+    "max_length": 24
+  },
+  "162.218.180.0/24": {
+    "authorized_as": 55039,
+    "max_length": 24
+  },
+  "65.125.221.0/24": {
+    "authorized_as": 55044,
+    "max_length": 24
+  },
+  "74.123.28.0/22": {
+    "authorized_as": 55064,
+    "max_length": 24
+  },
+  "192.64.29.0/24": {
+    "authorized_as": 55091,
+    "max_length": 24
+  },
+  "23.138.0.0/24": {
+    "authorized_as": 55140,
+    "max_length": 24
+  },
+  "149.112.126.0/24": {
+    "authorized_as": 55195,
+    "max_length": 24
+  },
+  "162.210.216.0/21": {
+    "authorized_as": 55216,
+    "max_length": 32
+  },
+  "64.184.120.0/21": {
+    "authorized_as": 55230,
+    "max_length": 21
+  },
+  "23.141.192.0/24": {
+    "authorized_as": 55236,
+    "max_length": 24
+  },
+  "38.75.194.0/24": {
+    "authorized_as": 55285,
+    "max_length": 24
+  },
+  "23.26.0.0/24": {
+    "authorized_as": 55286,
+    "max_length": 24
+  },
+  "23.186.248.0/24": {
+    "authorized_as": 62467,
+    "max_length": 24
+  },
+  "198.60.109.0/24": {
+    "authorized_as": 62494,
+    "max_length": 24
+  },
+  "76.78.250.0/24": {
+    "authorized_as": 62523,
+    "max_length": 24
+  },
+  "130.156.13.0/24": {
+    "authorized_as": 62532,
+    "max_length": 24
+  },
+  "5.56.24.0/24": {
+    "authorized_as": 62553,
+    "max_length": 24
+  },
+  "5.101.86.0/24": {
+    "authorized_as": 62563,
+    "max_length": 24
+  },
+  "192.64.176.0/20": {
+    "authorized_as": 62605,
+    "max_length": 20
+  },
+  "23.91.105.0/24": {
+    "authorized_as": 62610,
+    "max_length": 24
+  },
+  "68.68.244.0/22": {
+    "authorized_as": 62646,
+    "max_length": 24
+  },
+  "23.160.224.0/24": {
+    "authorized_as": 62668,
+    "max_length": 24
+  },
+  "192.210.16.0/20": {
+    "authorized_as": 62728,
+    "max_length": 24
+  },
+  "74.119.124.0/22": {
+    "authorized_as": 62759,
+    "max_length": 22
+  },
+  "192.84.255.0/24": {
+    "authorized_as": 62807,
+    "max_length": 24
+  },
+  "23.128.144.0/24": {
+    "authorized_as": 62809,
+    "max_length": 24
+  },
+  "104.218.136.0/24": {
+    "authorized_as": 62833,
+    "max_length": 24
+  },
+  "209.221.62.0/23": {
+    "authorized_as": 62844,
+    "max_length": 24
+  },
+  "74.1.1.0/24": {
+    "authorized_as": 62917,
+    "max_length": 24
+  },
+  "23.139.60.0/24": {
+    "authorized_as": 62887,
+    "max_length": 24
+  },
+  "66.212.60.0/23": {
+    "authorized_as": 62913,
+    "max_length": 24
+  },
+  "137.83.30.0/24": {
+    "authorized_as": 62915,
+    "max_length": 24
+  },
+  "216.234.138.0/23": {
+    "authorized_as": 62929,
+    "max_length": 24
+  },
+  "64.111.40.0/24": {
+    "authorized_as": 62943,
+    "max_length": 24
+  },
+  "45.61.162.0/24": {
+    "authorized_as": 63018,
+    "max_length": 24
+  },
+  "2.56.117.0/24": {
+    "authorized_as": 63023,
+    "max_length": 24
+  },
+  "64.71.172.0/24": {
+    "authorized_as": 63186,
+    "max_length": 24
+  },
+  "2.27.249.0/24": {
+    "authorized_as": 63199,
+    "max_length": 24
+  },
+  "23.83.222.0/24": {
+    "authorized_as": 63213,
+    "max_length": 24
+  },
+  "148.59.42.0/24": {
+    "authorized_as": 63251,
+    "max_length": 24
+  },
+  "23.151.124.0/24": {
+    "authorized_as": 63260,
+    "max_length": 24
+  },
+  "50.149.209.0/24": {
+    "authorized_as": 63264,
+    "max_length": 24
+  },
+  "23.155.32.0/24": {
+    "authorized_as": 63270,
+    "max_length": 24
+  },
+  "66.245.176.0/24": {
+    "authorized_as": 63290,
+    "max_length": 24
+  },
+  "23.174.240.0/24": {
+    "authorized_as": 63296,
+    "max_length": 24
+  },
+  "165.254.21.16/29": {
+    "authorized_as": 63376,
+    "max_length": 29
+  },
+  "207.90.254.0/23": {
+    "authorized_as": 63351,
+    "max_length": 24
+  },
+  "192.234.194.0/24": {
+    "authorized_as": 63370,
+    "max_length": 24
+  },
+  "104.219.184.0/24": {
+    "authorized_as": 63457,
+    "max_length": 24
+  },
+  "5.231.73.0/24": {
+    "authorized_as": 63473,
+    "max_length": 24
+  },
+  "64.125.97.0/24": {
+    "authorized_as": 63474,
+    "max_length": 24
+  },
+  "50.217.136.0/24": {
+    "authorized_as": 63483,
+    "max_length": 24
+  },
+  "148.64.62.0/23": {
+    "authorized_as": 64227,
+    "max_length": 24
+  },
+  "45.114.119.0/24": {
+    "authorized_as": 64245,
+    "max_length": 24
+  },
+  "208.118.228.160/28": {
+    "authorized_as": 64249,
+    "max_length": 28
+  },
+  "23.138.192.0/24": {
+    "authorized_as": 64260,
+    "max_length": 24
+  },
+  "23.151.136.0/24": {
+    "authorized_as": 64289,
+    "max_length": 24
+  },
+  "23.174.104.0/24": {
+    "authorized_as": 149513,
+    "max_length": 24
+  },
+  "23.136.116.0/24": {
+    "authorized_as": 203939,
+    "max_length": 24
+  },
+  "199.71.0.0/24": {
+    "authorized_as": 393220,
+    "max_length": 24
+  },
+  "199.212.0.0/24": {
+    "authorized_as": 393225,
+    "max_length": 24
+  },
+  "66.85.81.0/24": {
+    "authorized_as": 393227,
+    "max_length": 24
+  },
+  "72.50.240.0/24": {
+    "authorized_as": 393238,
+    "max_length": 24
+  },
+  "142.231.20.0/24": {
+    "authorized_as": 393249,
+    "max_length": 24
+  },
+  "45.199.161.0/24": {
+    "authorized_as": 393294,
+    "max_length": 24
+  },
+  "216.163.100.0/24": {
+    "authorized_as": 393301,
+    "max_length": 24
+  },
+  "81.161.237.0/24": {
+    "authorized_as": 393398,
+    "max_length": 24
+  },
+  "66.115.202.0/24": {
+    "authorized_as": 393417,
+    "max_length": 24
+  },
+  "165.254.222.0/24": {
+    "authorized_as": 393423,
+    "max_length": 24
+  },
+  "206.108.0.0/24": {
+    "authorized_as": 393424,
+    "max_length": 24
+  },
+  "23.164.224.0/24": {
+    "authorized_as": 393434,
+    "max_length": 24
+  },
+  "65.38.130.0/23": {
+    "authorized_as": 393436,
+    "max_length": 24
+  },
+  "154.91.32.0/24": {
+    "authorized_as": 393437,
+    "max_length": 24
+  },
+  "23.165.48.0/24": {
+    "authorized_as": 393444,
+    "max_length": 24
+  },
+  "198.28.13.0/24": {
+    "authorized_as": 393451,
+    "max_length": 24
+  },
+  "23.128.0.0/24": {
+    "authorized_as": 393457,
+    "max_length": 24
+  },
+  "184.185.6.0/24": {
+    "authorized_as": 393521,
+    "max_length": 24
+  },
+  "129.250.203.64/29": {
+    "authorized_as": 393536,
+    "max_length": 29
+  },
+  "184.105.93.0/24": {
+    "authorized_as": 393552,
+    "max_length": 24
+  },
+  "23.142.248.0/24": {
+    "authorized_as": 393577,
+    "max_length": 32
+  },
+  "216.66.12.0/23": {
+    "authorized_as": 393670,
+    "max_length": 24
+  },
+  "208.77.8.0/23": {
+    "authorized_as": 393713,
+    "max_length": 24
+  },
+  "162.222.234.0/24": {
+    "authorized_as": 393719,
+    "max_length": 24
+  },
+  "199.88.52.0/22": {
+    "authorized_as": 393731,
+    "max_length": 24
+  },
+  "64.199.252.0/24": {
+    "authorized_as": 393775,
+    "max_length": 24
+  },
+  "172.86.24.0/21": {
+    "authorized_as": 393909,
+    "max_length": 21
+  },
+  "104.251.174.0/23": {
+    "authorized_as": 393950,
+    "max_length": 24
+  },
+  "31.186.225.0/24": {
+    "authorized_as": 393954,
+    "max_length": 24
+  },
+  "66.207.116.0/23": {
+    "authorized_as": 393994,
+    "max_length": 24
+  },
+  "199.5.26.0/24": {
+    "authorized_as": 394018,
+    "max_length": 24
+  },
+  "23.139.248.0/24": {
+    "authorized_as": 394019,
+    "max_length": 24
+  },
+  "192.159.119.0/24": {
+    "authorized_as": 394099,
+    "max_length": 24
+  },
+  "67.226.208.0/24": {
+    "authorized_as": 394102,
+    "max_length": 24
+  },
+  "104.234.35.0/24": {
+    "authorized_as": 394117,
+    "max_length": 24
+  },
+  "64.20.106.0/24": {
+    "authorized_as": 394140,
+    "max_length": 24
+  },
+  "155.117.20.0/24": {
+    "authorized_as": 394177,
+    "max_length": 24
+  },
+  "68.64.222.0/24": {
+    "authorized_as": 394195,
+    "max_length": 24
+  },
+  "23.173.88.0/24": {
+    "authorized_as": 394256,
+    "max_length": 24
+  },
+  "66.205.248.0/23": {
+    "authorized_as": 394280,
+    "max_length": 23
+  },
+  "66.207.103.0/24": {
+    "authorized_as": 394284,
+    "max_length": 24
+  },
+  "149.112.127.0/24": {
+    "authorized_as": 394354,
+    "max_length": 24
+  },
+  "23.176.0.0/24": {
+    "authorized_as": 394367,
+    "max_length": 24
+  },
+  "66.60.226.0/24": {
+    "authorized_as": 394437,
+    "max_length": 24
+  },
+  "45.4.205.0/24": {
+    "authorized_as": 394445,
+    "max_length": 24
+  },
+  "157.191.25.0/24": {
+    "authorized_as": 394450,
+    "max_length": 24
+  },
+  "157.191.155.0/24": {
+    "authorized_as": 394452,
+    "max_length": 24
+  },
+  "69.4.8.0/24": {
+    "authorized_as": 394453,
+    "max_length": 24
+  },
+  "70.169.188.0/24": {
+    "authorized_as": 394468,
+    "max_length": 24
+  },
+  "170.117.216.0/22": {
+    "authorized_as": 394542,
+    "max_length": 22
+  },
+  "50.227.99.0/24": {
+    "authorized_as": 394621,
+    "max_length": 24
+  },
+  "23.130.192.0/24": {
+    "authorized_as": 394625,
+    "max_length": 24
+  },
+  "204.225.44.0/23": {
+    "authorized_as": 394678,
+    "max_length": 23
+  },
+  "45.5.184.0/24": {
+    "authorized_as": 394680,
+    "max_length": 24
+  },
+  "45.229.32.0/22": {
+    "authorized_as": 394684,
+    "max_length": 24
+  },
+  "66.209.134.0/24": {
+    "authorized_as": 394708,
+    "max_length": 24
+  },
+  "85.131.160.0/19": {
+    "authorized_as": 394710,
+    "max_length": 19
+  },
+  "23.142.240.0/24": {
+    "authorized_as": 394838,
+    "max_length": 24
+  },
+  "45.119.4.0/24": {
+    "authorized_as": 394881,
+    "max_length": 24
+  },
+  "199.250.250.0/24": {
+    "authorized_as": 394893,
+    "max_length": 24
+  },
+  "165.140.224.0/24": {
+    "authorized_as": 394896,
+    "max_length": 24
+  },
+  "208.90.11.0/24": {
+    "authorized_as": 394911,
+    "max_length": 24
+  },
+  "204.87.151.0/24": {
+    "authorized_as": 394968,
+    "max_length": 24
+  },
+  "184.105.0.0/24": {
+    "authorized_as": 395100,
+    "max_length": 24
+  },
+  "148.51.239.0/24": {
+    "authorized_as": 395174,
+    "max_length": 24
+  },
+  "208.92.68.0/22": {
+    "authorized_as": 395176,
+    "max_length": 24
+  },
+  "104.218.83.0/24": {
+    "authorized_as": 395194,
+    "max_length": 24
+  },
+  "67.219.182.0/23": {
+    "authorized_as": 395348,
+    "max_length": 24
+  },
+  "143.223.112.0/20": {
+    "authorized_as": 395379,
+    "max_length": 20
+  },
+  "184.104.187.0/24": {
+    "authorized_as": 395383,
+    "max_length": 24
+  },
+  "143.55.240.0/20": {
+    "authorized_as": 395437,
+    "max_length": 24
+  },
+  "208.94.236.0/24": {
+    "authorized_as": 395466,
+    "max_length": 24
+  },
+  "23.135.128.0/24": {
+    "authorized_as": 395475,
+    "max_length": 24
+  },
+  "170.10.72.0/24": {
+    "authorized_as": 395555,
+    "max_length": 24
+  },
+  "172.83.200.0/24": {
+    "authorized_as": 395567,
+    "max_length": 24
+  },
+  "23.183.0.0/24": {
+    "authorized_as": 395657,
+    "max_length": 24
+  },
+  "169.150.136.0/21": {
+    "authorized_as": 395662,
+    "max_length": 21
+  },
+  "23.177.104.0/24": {
+    "authorized_as": 395719,
+    "max_length": 24
+  },
+  "107.150.14.0/24": {
+    "authorized_as": 395748,
+    "max_length": 24
+  },
+  "23.169.176.0/24": {
+    "authorized_as": 395823,
+    "max_length": 24
+  },
+  "23.26.124.0/24": {
+    "authorized_as": 395839,
+    "max_length": 24
+  },
+  "192.81.247.0/24": {
+    "authorized_as": 395856,
+    "max_length": 24
+  },
+  "23.167.160.0/24": {
+    "authorized_as": 395859,
+    "max_length": 24
+  },
+  "130.12.255.0/24": {
+    "authorized_as": 395915,
+    "max_length": 24
+  },
+  "72.14.146.0/24": {
+    "authorized_as": 396026,
+    "max_length": 24
+  },
+  "204.141.192.0/21": {
+    "authorized_as": 396071,
+    "max_length": 24
+  },
+  "64.186.8.0/24": {
+    "authorized_as": 396097,
+    "max_length": 24
+  },
+  "216.176.205.0/24": {
+    "authorized_as": 396123,
+    "max_length": 24
+  },
+  "23.187.120.0/24": {
+    "authorized_as": 396238,
+    "max_length": 24
+  },
+  "128.254.222.0/24": {
+    "authorized_as": 396295,
+    "max_length": 24
+  },
+  "35.131.124.0/24": {
+    "authorized_as": 396299,
+    "max_length": 24
+  },
+  "170.76.155.0/24": {
+    "authorized_as": 396305,
+    "max_length": 24
+  },
+  "23.171.128.0/24": {
+    "authorized_as": 396313,
+    "max_length": 24
+  },
+  "2.57.168.0/24": {
+    "authorized_as": 396356,
+    "max_length": 24
+  },
+  "23.137.40.0/24": {
+    "authorized_as": 396416,
+    "max_length": 24
+  },
+  "23.151.56.0/24": {
+    "authorized_as": 396422,
+    "max_length": 24
+  },
+  "130.51.64.0/22": {
+    "authorized_as": 396431,
+    "max_length": 24
+  },
+  "104.222.80.0/24": {
+    "authorized_as": 396443,
+    "max_length": 24
+  },
+  "163.253.32.0/24": {
+    "authorized_as": 396450,
+    "max_length": 24
+  },
+  "69.36.144.0/24": {
+    "authorized_as": 396828,
+    "max_length": 24
+  },
+  "199.193.60.0/22": {
+    "authorized_as": 396842,
+    "max_length": 22
+  },
+  "23.252.236.0/24": {
+    "authorized_as": 396879,
+    "max_length": 24
+  },
+  "138.43.60.0/22": {
+    "authorized_as": 396905,
+    "max_length": 24
+  },
+  "148.51.132.0/24": {
+    "authorized_as": 396930,
+    "max_length": 24
+  },
+  "185.212.75.0/24": {
+    "authorized_as": 396950,
+    "max_length": 24
+  },
+  "64.57.22.0/24": {
+    "authorized_as": 396955,
+    "max_length": 24
+  },
+  "142.248.21.0/24": {
+    "authorized_as": 396993,
+    "max_length": 24
+  },
+  "14.102.233.0/24": {
+    "authorized_as": 396998,
+    "max_length": 24
+  },
+  "130.250.138.0/23": {
+    "authorized_as": 397016,
+    "max_length": 24
+  },
+  "24.53.152.0/22": {
+    "authorized_as": 397027,
+    "max_length": 22
+  },
+  "23.150.164.0/24": {
+    "authorized_as": 397031,
+    "max_length": 24
+  },
+  "23.27.211.0/24": {
+    "authorized_as": 397032,
+    "max_length": 24
+  },
+  "23.153.84.0/24": {
+    "authorized_as": 397067,
+    "max_length": 24
+  },
+  "89.249.197.0/24": {
+    "authorized_as": 397086,
+    "max_length": 24
+  },
+  "23.153.224.0/24": {
+    "authorized_as": 397095,
+    "max_length": 24
+  },
+  "23.137.8.0/24": {
+    "authorized_as": 397097,
+    "max_length": 24
+  },
+  "23.159.112.0/24": {
+    "authorized_as": 397131,
+    "max_length": 24
+  },
+  "23.163.32.0/24": {
+    "authorized_as": 397142,
+    "max_length": 24
+  },
+  "23.148.248.0/24": {
+    "authorized_as": 397270,
+    "max_length": 24
+  },
+  "45.41.253.0/24": {
+    "authorized_as": 397301,
+    "max_length": 24
+  },
+  "129.19.146.0/24": {
+    "authorized_as": 397315,
+    "max_length": 24
+  },
+  "23.29.49.0/24": {
+    "authorized_as": 397325,
+    "max_length": 24
+  },
+  "23.142.48.0/24": {
+    "authorized_as": 397326,
+    "max_length": 24
+  },
+  "5.182.102.0/24": {
+    "authorized_as": 397373,
+    "max_length": 24
+  },
+  "74.51.200.0/24": {
+    "authorized_as": 397412,
+    "max_length": 24
+  },
+  "23.151.232.0/24": {
+    "authorized_as": 397423,
+    "max_length": 24
+  },
+  "23.145.224.0/24": {
+    "authorized_as": 397427,
+    "max_length": 24
+  },
+  "131.153.103.0/24": {
+    "authorized_as": 397651,
+    "max_length": 32
+  },
+  "136.175.208.0/22": {
+    "authorized_as": 397720,
+    "max_length": 24
+  },
+  "45.142.248.0/24": {
+    "authorized_as": 397735,
+    "max_length": 24
+  },
+  "209.105.180.0/22": {
+    "authorized_as": 397803,
+    "max_length": 22
+  },
+  "134.195.124.0/24": {
+    "authorized_as": 397921,
+    "max_length": 24
+  },
+  "23.135.240.0/24": {
+    "authorized_as": 397952,
+    "max_length": 24
+  },
+  "23.147.112.0/24": {
+    "authorized_as": 398013,
+    "max_length": 24
+  },
+  "67.219.0.0/20": {
+    "authorized_as": 398025,
+    "max_length": 20
+  },
+  "64.202.168.0/24": {
+    "authorized_as": 398101,
+    "max_length": 24
+  },
+  "23.154.184.0/24": {
+    "authorized_as": 398143,
+    "max_length": 24
+  },
+  "168.220.222.0/24": {
+    "authorized_as": 398156,
+    "max_length": 24
+  },
+  "142.202.164.0/22": {
+    "authorized_as": 398203,
+    "max_length": 22
+  },
+  "52.129.46.0/23": {
+    "authorized_as": 398335,
+    "max_length": 23
+  },
+  "91.149.221.0/24": {
+    "authorized_as": 398343,
+    "max_length": 24
+  },
+  "2.58.200.0/24": {
+    "authorized_as": 398395,
+    "max_length": 24
+  },
+  "185.165.212.0/24": {
+    "authorized_as": 398427,
+    "max_length": 24
+  },
+  "143.246.152.0/21": {
+    "authorized_as": 398446,
+    "max_length": 24
+  },
+  "23.26.76.0/24": {
+    "authorized_as": 398465,
+    "max_length": 24
+  },
+  "204.108.186.0/23": {
+    "authorized_as": 398471,
+    "max_length": 24
+  },
+  "206.81.114.0/24": {
+    "authorized_as": 398638,
+    "max_length": 24
+  },
+  "204.108.172.0/23": {
+    "authorized_as": 398663,
+    "max_length": 24
+  },
+  "31.56.6.0/24": {
+    "authorized_as": 398704,
+    "max_length": 24
+  },
+  "172.82.16.0/24": {
+    "authorized_as": 398826,
+    "max_length": 24
+  },
+  "23.172.104.0/24": {
+    "authorized_as": 398915,
+    "max_length": 24
+  },
+  "104.233.218.0/24": {
+    "authorized_as": 398993,
+    "max_length": 24
+  },
+  "23.132.148.0/24": {
+    "authorized_as": 398999,
+    "max_length": 24
+  },
+  "116.51.24.128/25": {
+    "authorized_as": 399077,
+    "max_length": 25
+  },
+  "154.50.49.0/24": {
+    "authorized_as": 399078,
+    "max_length": 24
+  },
+  "200.5.27.0/24": {
+    "authorized_as": 399126,
+    "max_length": 24
+  },
+  "184.104.232.0/24": {
+    "authorized_as": 399224,
+    "max_length": 24
+  },
+  "38.159.112.0/24": {
+    "authorized_as": 399226,
+    "max_length": 24
+  },
+  "172.82.44.0/22": {
+    "authorized_as": 399230,
+    "max_length": 24
+  },
+  "12.42.147.0/24": {
+    "authorized_as": 399240,
+    "max_length": 24
+  },
+  "209.250.16.0/21": {
+    "authorized_as": 399268,
+    "max_length": 24
+  },
+  "104.238.192.0/24": {
+    "authorized_as": 399291,
+    "max_length": 24
+  },
+  "66.220.59.0/24": {
+    "authorized_as": 399331,
+    "max_length": 24
+  },
+  "23.156.184.0/24": {
+    "authorized_as": 399392,
+    "max_length": 24
+  },
+  "64.33.240.0/24": {
+    "authorized_as": 399439,
+    "max_length": 24
+  },
+  "31.57.36.0/24": {
+    "authorized_as": 399486,
+    "max_length": 24
+  },
+  "172.98.8.0/24": {
+    "authorized_as": 399521,
+    "max_length": 24
+  },
+  "209.209.88.0/24": {
+    "authorized_as": 399580,
+    "max_length": 24
+  },
+  "207.34.44.0/24": {
+    "authorized_as": 399589,
+    "max_length": 24
+  },
+  "23.190.176.0/24": {
+    "authorized_as": 399606,
+    "max_length": 24
+  },
+  "67.220.53.0/24": {
+    "authorized_as": 399643,
+    "max_length": 24
+  },
+  "23.26.125.0/24": {
+    "authorized_as": 399646,
+    "max_length": 24
+  },
+  "140.106.160.0/19": {
+    "authorized_as": 399702,
+    "max_length": 24
+  },
+  "23.181.208.0/24": {
+    "authorized_as": 399728,
+    "max_length": 24
+  },
+  "64.49.29.0/24": {
+    "authorized_as": 399772,
+    "max_length": 24
+  },
+  "23.154.112.0/24": {
+    "authorized_as": 399788,
+    "max_length": 24
+  },
+  "45.150.58.0/24": {
+    "authorized_as": 399790,
+    "max_length": 24
+  },
+  "164.153.140.0/24": {
+    "authorized_as": 399855,
+    "max_length": 24
+  },
+  "23.128.180.0/24": {
+    "authorized_as": 399861,
+    "max_length": 24
+  },
+  "45.45.224.0/22": {
+    "authorized_as": 399888,
+    "max_length": 24
+  },
+  "110.239.48.0/20": {
+    "authorized_as": 399898,
+    "max_length": 22
+  },
+  "216.73.188.0/24": {
+    "authorized_as": 399912,
+    "max_length": 24
+  },
+  "23.152.120.0/24": {
+    "authorized_as": 399951,
+    "max_length": 24
+  },
+  "23.143.104.0/24": {
+    "authorized_as": 399989,
+    "max_length": 24
+  },
+  "76.78.186.0/24": {
+    "authorized_as": 399999,
+    "max_length": 24
+  },
+  "184.169.34.0/24": {
+    "authorized_as": 400110,
+    "max_length": 24
+  },
+  "98.143.148.0/22": {
+    "authorized_as": 400136,
+    "max_length": 24
+  },
+  "23.136.136.0/24": {
+    "authorized_as": 400146,
+    "max_length": 24
+  },
+  "38.212.196.0/22": {
+    "authorized_as": 400164,
+    "max_length": 24
+  },
+  "23.151.76.0/24": {
+    "authorized_as": 400175,
+    "max_length": 32
+  },
+  "63.133.216.0/22": {
+    "authorized_as": 400212,
+    "max_length": 24
+  },
+  "23.147.152.0/24": {
+    "authorized_as": 400304,
+    "max_length": 24
+  },
+  "204.119.24.0/24": {
+    "authorized_as": 400317,
+    "max_length": 24
+  },
+  "38.44.192.0/19": {
+    "authorized_as": 400391,
+    "max_length": 19
+  },
+  "23.27.249.0/24": {
+    "authorized_as": 400402,
+    "max_length": 24
+  },
+  "104.224.77.0/24": {
+    "authorized_as": 400409,
+    "max_length": 24
+  },
+  "192.171.112.0/23": {
+    "authorized_as": 400528,
+    "max_length": 24
+  },
+  "2.27.167.0/24": {
+    "authorized_as": 400529,
+    "max_length": 24
+  },
+  "23.145.40.0/24": {
+    "authorized_as": 400587,
+    "max_length": 24
+  },
+  "23.29.52.0/24": {
+    "authorized_as": 400615,
+    "max_length": 24
+  },
+  "23.150.32.0/24": {
+    "authorized_as": 400618,
+    "max_length": 24
+  },
+  "206.168.140.0/23": {
+    "authorized_as": 400701,
+    "max_length": 24
+  },
+  "50.62.152.0/24": {
+    "authorized_as": 400754,
+    "max_length": 24
+  },
+  "23.141.136.0/24": {
+    "authorized_as": 400767,
+    "max_length": 24
+  },
+  "31.43.164.0/24": {
+    "authorized_as": 400810,
+    "max_length": 24
+  },
+  "130.250.107.0/24": {
+    "authorized_as": 400817,
+    "max_length": 24
+  },
+  "23.140.28.0/24": {
+    "authorized_as": 401081,
+    "max_length": 24
+  },
+  "23.138.200.0/24": {
+    "authorized_as": 401233,
+    "max_length": 24
+  },
+  "66.96.95.0/24": {
+    "authorized_as": 401299,
+    "max_length": 24
+  },
+  "69.58.60.0/24": {
+    "authorized_as": 401307,
+    "max_length": 24
+  },
+  "37.230.53.0/24": {
+    "authorized_as": 401322,
+    "max_length": 24
+  },
+  "23.188.56.0/24": {
+    "authorized_as": 401332,
+    "max_length": 24
+  },
+  "101.53.77.0/24": {
+    "authorized_as": 401450,
+    "max_length": 24
+  },
+  "23.129.180.0/24": {
+    "authorized_as": 401486,
+    "max_length": 24
+  },
+  "23.130.156.0/24": {
+    "authorized_as": 401538,
+    "max_length": 32
+  },
+  "164.153.142.0/24": {
+    "authorized_as": 401602,
+    "max_length": 24
+  },
+  "23.140.244.0/24": {
+    "authorized_as": 401696,
+    "max_length": 24
+  },
+  "104.232.11.0/24": {
+    "authorized_as": 401707,
+    "max_length": 24
+  },
+  "40.27.18.0/24": {
+    "authorized_as": 401725,
+    "max_length": 24
+  },
+  "23.146.172.0/24": {
+    "authorized_as": 401973,
+    "max_length": 24
+  },
+  "38.81.252.0/22": {
+    "authorized_as": 402062,
+    "max_length": 24
+  },
+  "208.68.4.0/24": {
+    "authorized_as": 402106,
+    "max_length": 24
+  }
+}
